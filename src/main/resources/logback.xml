@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true">
+
+    <!-- ==========================================================
+         1. Console Appender (Colored)
+       ========================================================== -->
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>
+                %highlight(%-5level) [%date{HH:mm:ss}] [%thread] %cyan(%logger{36}) - %msg%n
+            </pattern>
+        </encoder>
+    </appender>
+
+    <!-- ==========================================================
+         2. Rolling File Appender (General Logs)
+       ========================================================== -->
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>logs/framework.log</file>
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!-- daily rolling -->
+            <fileNamePattern>logs/framework-%d{yyyy-MM-dd}.zip</fileNamePattern>
+
+            <!-- keep logs for 30 days -->
+            <maxHistory>30</maxHistory>
+
+            <!-- roll if file exceeds 10MB -->
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+
+        <encoder>
+            <pattern>%date{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- ==========================================================
+         3. API Log File (Only logs from API package)
+       ========================================================== -->
+    <appender name="API_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>logs/api.log</file>
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>logs/api-%d{yyyy-MM-dd}.zip</fileNamePattern>
+            <maxHistory>30</maxHistory>
+        </rollingPolicy>
+
+        <encoder>
+            <pattern>%date{yyyy-MM-dd HH:mm:ss} %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Send logs from API package to API_FILE -->
+    <logger name="com.api" level="DEBUG" additivity="false">
+        <appender-ref ref="API_FILE"/>
+        <appender-ref ref="CONSOLE"/>
+    </logger>
+
+    <!-- ==========================================================
+         4. Framework Log File (Errors only)
+       ========================================================== -->
+    <appender name="FRAMEWORK_ERRORS" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>logs/framework-errors.log</file>
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>logs/framework-errors-%d{yyyy-MM-dd}.zip</fileNamePattern>
+            <maxHistory>30</maxHistory>
+        </rollingPolicy>
+
+        <encoder>
+            <pattern>%date %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <logger name="com.base" level="ERROR" additivity="false">
+        <appender-ref ref="FRAMEWORK_ERRORS"/>
+        <appender-ref ref="CONSOLE"/>
+    </logger>
+
+    <!-- ==========================================================
+         5. Root Logger (Global)
+       ========================================================== -->
+    <root level="INFO">
+        <appender-ref ref="CONSOLE"/>
+        <appender-ref ref="FILE"/>
+    </root>
+
+</configuration>
