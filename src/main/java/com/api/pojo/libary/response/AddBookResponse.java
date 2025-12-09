@@ -1,0 +1,17 @@
+package com.api.pojo.libary.response;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import lombok.Builder;
+import lombok.Data;
+import lombok.extern.jackson.Jacksonized;
+
+@Data
+@Builder
+@Jacksonized
+public class AddBookResponse {
+    @JsonProperty("Msg")
+    private String msg;
+
+    @JsonProperty("ID")
+    private String Id;
+}

@@ -2,17 +2,19 @@ package com.api.utils;
 
 import com.api.exceptions.ExcelException;
 import com.api.pojo.excel.model.CellPosition;
-import io.cucumber.java.sl.Ce;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.CellType;
+import org.apache.poi.ss.usermodel.DateUtil;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.util.Iterator;
+import java.util.ArrayList;
+
+import java.util.List;
 
 @Slf4j
 public class DataDriven{
@@ -55,4 +57,34 @@ public class DataDriven{
         throw new ExcelException(String.format("Column named : %s is not present in the sheet : %s",
                 columnName, sheet.getSheetName()));
     }
+
+    public static Object getCellValue(Cell cell){
+        if(cell == null)
+            return null;
+        switch (cell.getCellType()){
+            case STRING :   return cell.getStringCellValue();
+            case NUMERIC:   if(DateUtil.isCellDateFormatted(cell))
+                                return  cell.getDateCellValue();
+                            return cell.getNumericCellValue();
+            case BOOLEAN:   return cell.getBooleanCellValue();
+            case FORMULA:   return cell.getCellFormula();
+            case BLANK:     return null;
+            default:        return null;
+        }
+    }
+
+    public static List<Object> getRowCellValuesList(Row row){
+        List<Object> list = new ArrayList<>();
+        row.forEach(cell -> list.add(getCellValue(cell)));
+        return  list;
+    }
+
+
+    public static List<Object> getWholeRowValuesByRowName(XSSFSheet sheet, String rowName){
+        CellPosition rowDetails = DataDriven.getRowAndColumnOfCell(sheet, rowName);
+        return getRowCellValuesList(rowDetails.row());
+    }
+
+
+
 }
