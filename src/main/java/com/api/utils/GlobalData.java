@@ -16,5 +16,5 @@ public class GlobalData {
     public static Integer episodeId;
     public static List<Integer> episodeIds = new ArrayList<>();
 
-
+    public static List<String> bookIds = new ArrayList<>();
 }

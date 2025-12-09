@@ -1,32 +1,148 @@
-2025-12-06 18:36:35 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
-2025-12-06 18:36:35 DEBUG com.api.utils.DataDriven - Excel file opened successfully
-2025-12-06 19:09:04 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
-2025-12-06 19:09:04 DEBUG com.api.utils.DataDriven - Excel file opened successfully
-2025-12-06 19:12:12 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
-2025-12-06 19:12:12 DEBUG com.api.utils.DataDriven - Excel file opened successfully
-2025-12-06 19:12:34 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
-2025-12-06 19:12:34 DEBUG com.api.utils.DataDriven - Excel file opened successfully
-2025-12-06 19:13:22 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
-2025-12-06 19:13:22 DEBUG com.api.utils.DataDriven - Excel file opened successfully
-2025-12-06 19:13:36 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
-2025-12-06 19:13:36 DEBUG com.api.utils.DataDriven - Excel file opened successfully
-2025-12-06 19:19:47 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
-2025-12-06 19:19:47 DEBUG com.api.utils.DataDriven - Excel file opened successfully
-2025-12-06 19:19:59 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
-2025-12-06 19:19:59 DEBUG com.api.utils.DataDriven - Excel file opened successfully
-2025-12-06 19:20:24 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
-2025-12-06 19:20:24 DEBUG com.api.utils.DataDriven - Excel file opened successfully
-2025-12-06 21:02:35 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
-2025-12-06 21:02:35 DEBUG com.api.utils.DataDriven - Excel file opened successfully
-2025-12-06 21:13:05 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
-2025-12-06 21:13:05 DEBUG com.api.utils.DataDriven - Excel file opened successfully
-2025-12-06 21:14:19 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
-2025-12-06 21:14:19 DEBUG com.api.utils.DataDriven - Excel file opened successfully
-2025-12-06 21:17:23 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
-2025-12-06 21:17:23 DEBUG com.api.utils.DataDriven - Excel file opened successfully
-2025-12-06 21:18:03 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
-2025-12-06 21:18:03 DEBUG com.api.utils.DataDriven - Excel file opened successfully
-2025-12-06 21:20:46 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
-2025-12-06 21:20:46 DEBUG com.api.utils.DataDriven - Excel file opened successfully
-2025-12-06 21:21:04 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
-2025-12-06 21:21:04 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 10:41:18 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 10:41:18 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 10:43:02 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 10:43:02 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 10:48:46 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 10:48:46 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 10:54:19 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 10:54:19 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 11:07:44 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 11:07:44 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 11:10:42 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 11:10:42 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 11:10:56 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 11:10:56 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 11:14:31 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 11:14:31 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 11:15:41 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 11:15:41 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 11:17:11 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 11:17:11 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 18:39:35 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 18:39:35 ERROR com.api.utils.DataDriven - Failed to fetch Excel : C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+java.io.FileNotFoundException: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx (The process cannot access the file because it is being used by another process)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:159)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:112)
+	at com.api.utils.DataDriven.fetchSheetDataFromExcel(DataDriven.java:26)
+	at com.tests.library.AddBook.addBookDataFromExcel(AddBook.java:40)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:54)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:159)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:949)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2025-12-09 18:39:55 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 18:39:55 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 18:40:41 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 18:40:41 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 18:44:40 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 18:44:40 ERROR com.api.utils.DataDriven - Failed to fetch Excel : C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+java.io.FileNotFoundException: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx (The process cannot access the file because it is being used by another process)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:159)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:112)
+	at com.api.utils.DataDriven.fetchSheetDataFromExcel(DataDriven.java:26)
+	at com.tests.library.AddBook.addBookDataFromExcel(AddBook.java:40)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:54)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:159)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:949)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2025-12-09 18:44:52 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 18:44:52 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 18:45:29 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 18:45:29 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 19:17:24 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 19:17:24 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 19:18:30 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 19:18:30 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 19:20:55 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 19:20:55 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 19:24:16 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 19:24:16 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 19:29:18 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 19:29:18 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 19:30:33 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 19:30:33 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 19:31:42 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 19:31:42 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 19:32:10 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 19:32:10 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 19:33:08 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 19:33:08 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 19:35:01 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 19:35:01 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 19:36:54 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 19:36:54 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 19:40:03 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 19:40:03 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 19:40:37 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 19:40:37 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 19:41:21 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 19:41:21 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 20:28:55 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 20:28:55 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 20:29:20 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 20:29:20 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 20:30:12 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 20:30:12 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 20:30:53 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 20:30:53 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 20:31:50 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 20:31:50 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 20:32:17 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 20:32:17 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 20:32:53 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 20:32:53 DEBUG com.api.utils.DataDriven - Excel file opened successfully
+2025-12-09 20:34:28 INFO  com.api.utils.DataDriven - Reading Excel file from path: C:\Users\Wonder\OneDrive\Desktop\ApiFramework\ExcelDemoData.xlsx
+2025-12-09 20:34:28 DEBUG com.api.utils.DataDriven - Excel file opened successfully
