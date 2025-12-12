@@ -17,4 +17,7 @@ public class GlobalData {
     public static List<Integer> episodeIds = new ArrayList<>();
 
     public static List<String> bookIds = new ArrayList<>();
+
+    public static String authToken;
+    public static String userId;
 }

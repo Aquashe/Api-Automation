@@ -1,19 +1,23 @@
-package com.api.ecommerce.tests.api;
+package com.tests.ecommerce;
 
-import com.api.ecommerce.pojo.response.AddProductResponse;
 
-import com.api.ecommerce.tests.base.BaseTest;
-import com.api.ecommerce.utils.GlobalData;
+import com.api.pojo.ecommerce.response.AddProductResponse;
+import com.api.utils.GlobalData;
+import com.api.utils.RuntimeVariable;
+import com.base.ApiBaseTest;
+import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
+import lombok.extern.slf4j.Slf4j;
 import org.testng.annotations.Test;
 import java.io.File;
 
-
-public class CreateProductTest extends BaseTest {
+@Slf4j
+public class CreateProductTest extends ApiBaseTest {
 
     @Test(priority = 2, dependsOnGroups = "login", groups = "product")
     public void createProduct(){
-        RequestSpecification createProductRequest = requestMultiPart
+        RequestSpecification createProductRequest = given()
+                .spec(Spec_Builder.multiPartRequestSpecification("baseUrl"))
                 .header("Authorization", GlobalData.authToken)
                 .param("productName","qwerty")
                 .param("productAddedBy",GlobalData.userId)
@@ -24,15 +28,17 @@ public class CreateProductTest extends BaseTest {
                 .multiPart("productImage", new File("src/test/resources/shirt.jpeg"));
 
 
-        AddProductResponse addProductResponse = createProductRequest.when()
+        Response response = createProductRequest.when()
                 .post("api/ecom/product/add-product")
-                .then().assertThat().statusCode(201)
-                .extract().response().as(AddProductResponse.class);
+                .then()
+                .spec(Spec_Builder.responseSpecification(201))
+                .extract().response();
 
-        GlobalData.productId = addProductResponse.getProductId();
+        AddProductResponse addProductResponse = response.as(AddProductResponse.class);
+        RuntimeVariable.set("productId", addProductResponse.getProductId());
 
-        System.out.println("✅ Product added: " + GlobalData.productId);
-        System.out.println("✅ Message: " + addProductResponse.getMessage());
+        log.info("✅ Product added: {}", RuntimeVariable.get("productId"));
+        log.info("✅ Message: {}", addProductResponse.getMessage());
 
     }
 }

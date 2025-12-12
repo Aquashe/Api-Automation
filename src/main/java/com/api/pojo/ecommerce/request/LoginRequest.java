@@ -1,4 +1,4 @@
-package com.api.ecommerce.pojo.request;
+package com.api.pojo.ecommerce.request;
 
 import lombok.Builder;
 import lombok.Data;

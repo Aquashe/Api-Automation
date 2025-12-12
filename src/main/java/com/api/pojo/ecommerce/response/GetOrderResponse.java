@@ -1,7 +1,7 @@
-package com.api.ecommerce.pojo.response;
+package com.api.pojo.ecommerce.response;
 
 
-import com.api.ecommerce.pojo.model.OrderData;
+import com.api.pojo.ecommerce.model.OrderData;
 import lombok.Data;
 
 @Data

@@ -1,24 +1,32 @@
-package com.api.ecommerce.tests.api;
+package com.tests.ecommerce;
 
-import com.api.ecommerce.pojo.response.DeleteOrderResponse;
-import com.api.ecommerce.tests.base.BaseTest;
-import com.api.ecommerce.utils.GlobalData;
+
+import com.api.pojo.ecommerce.response.DeleteOrderResponse;
+import com.api.utils.GlobalData;
+import com.api.utils.RuntimeVariable;
+import com.base.ApiBaseTest;
+import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
+import lombok.extern.slf4j.Slf4j;
 import org.testng.annotations.Test;
 
-public class DeleteOrderTest extends BaseTest {
+@Slf4j
+public class DeleteOrderTest extends ApiBaseTest {
 
     @Test(priority = 5, dependsOnGroups = "order")
     public void deleteOrder(){
-        RequestSpecification deleteOrderRequest = requestNoBodyPart
+        RequestSpecification deleteOrderRequest = given()
+                .spec(Spec_Builder.noBodyPartRequestSpecification("baseUrl"))
                 .header("Authorization", GlobalData.authToken)
-                .pathParam("orderId",GlobalData.orderId);
+                .pathParam("orderId", RuntimeVariable.get("orderId"));
 
-        DeleteOrderResponse deleteOrderResponse =deleteOrderRequest
+        Response response =deleteOrderRequest
                 .when().delete("api/ecom/order/delete-order/{orderId}")
-                .then().assertThat().statusCode(200)
-                .extract().response().as(DeleteOrderResponse.class);
+                .then()
+                .spec(Spec_Builder.responseSpecification(200))
+                .extract().response();
 
-        System.out.println("✅ Message: " + deleteOrderResponse.getMessage());
+        DeleteOrderResponse deleteOrderResponse = response.as(DeleteOrderResponse.class);
+        log.info("✅ Message: {}", deleteOrderResponse.getMessage());
     }
 }

@@ -1,6 +1,7 @@
-package com.api.ecommerce.pojo.request;
+package com.api.pojo.ecommerce.request;
 
-import com.api.ecommerce.pojo.model.OrderDetails;
+
+import com.api.pojo.ecommerce.model.OrderDetails;
 import lombok.Builder;
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.api.ecommerce.pojo.response;
+package com.api.pojo.ecommerce.response;
 
 import lombok.Data;
 

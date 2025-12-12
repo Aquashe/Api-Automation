@@ -1,34 +1,41 @@
-package com.api.ecommerce.tests.api;
+package com.tests.ecommerce;
 
-import com.api.ecommerce.pojo.request.LoginRequest;
-import com.api.ecommerce.pojo.response.LoginResponse;
-import com.api.ecommerce.tests.base.BaseTest;
-import com.api.ecommerce.utils.ConfigReader;
-import com.api.ecommerce.utils.GlobalData;
+import com.api.pojo.ecommerce.request.LoginRequest;
+import com.api.pojo.ecommerce.response.LoginResponse;
+import com.api.utils.ConfigReader;
+import com.api.utils.GlobalData;
+import com.base.ApiBaseTest;
+import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
+import lombok.extern.slf4j.Slf4j;
 import org.testng.annotations.Test;
 
-public class LoginTest extends BaseTest {
+@Slf4j
+public class LoginTest extends ApiBaseTest {
 
     @Test(priority = 1, groups = "login")
     public void userLogin(){
-        RequestSpecification loginRequest = requestJsonPart
+        RequestSpecification loginRequest = given()
+                .spec(Spec_Builder.jsonPartRequestSpecification("baseUrl"))
                 .body(LoginRequest.builder()
                         .userEmail(ConfigReader.get("userEmail"))
                         .userPassword(ConfigReader.get("userPassword"))
                         .build());
 
-        LoginResponse loginResponse = loginRequest.when()
+        Response response = loginRequest.when()
                 .post("api/ecom/auth/login")
-                .then().extract()
-                .response().as(LoginResponse.class);
+                .then()
+                .spec(Spec_Builder.responseSpecification(200))
+                .extract()
+                .response();
 
+        LoginResponse loginResponse = response.as(LoginResponse.class);
         GlobalData.authToken = loginResponse.getToken();
         GlobalData.userId = loginResponse.getUserId();
 
-        System.out.println("✅ Token saved: " + GlobalData.authToken);
-        System.out.println("✅ User Id generated: " + GlobalData.userId);
-        System.out.println("✅ Message: " + loginResponse.getMessage());
+        log.info("✅ Token saved: {}" , GlobalData.authToken);
+        log.info("✅ User Id generated: {}", GlobalData.userId);
+        log.info("✅ Message:{} ", loginResponse.getMessage());
 
     }
 }
