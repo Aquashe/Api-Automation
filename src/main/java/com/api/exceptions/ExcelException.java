@@ -1,9 +1,7 @@
 package com.api.exceptions;
 
 public class ExcelException extends FrameworkException{
-    public ExcelException(){
-
-    }
+    public ExcelException(){}
     public ExcelException(String message){
         super(message);
     }
