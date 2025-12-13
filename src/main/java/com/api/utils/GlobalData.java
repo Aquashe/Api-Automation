@@ -1,5 +1,7 @@
 package com.api.utils;
 
+import io.restassured.response.Response;
+import io.restassured.specification.RequestSpecification;
 import lombok.Data;
 
 import java.util.ArrayList;
@@ -20,4 +22,7 @@ public class GlobalData {
 
     public static String authToken;
     public static String userId;
+
+    public static RequestSpecification requestSpecification;
+    public static Response response;
 }

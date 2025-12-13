@@ -1,33 +1,1520 @@
-2025-12-12 14:40:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Wonder\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
-
-2025-12-12 15:01:12 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Wonder\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
-
-2025-12-12 15:01:15 [main] INFO  com.tests.ecommerce.LoginTest - ✅ Token saved: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjU1MzE4NzUsImV4cCI6MTc5NzA4OTQ3NX0.vbbuSYxBL6M0ynfCxt0z-26Vkfd-hNdoIHJGq9RvKY4
-2025-12-12 15:01:15 [main] INFO  com.tests.ecommerce.LoginTest - ✅ User Id generated: 6905d428f669d6cb0a3a2da5
-2025-12-12 15:01:15 [main] INFO  com.tests.ecommerce.LoginTest - ✅ Message:Login Successfully 
-2025-12-12 15:02:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Wonder\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
-
-2025-12-12 15:02:03 [main] INFO  com.tests.ecommerce.LoginTest - ✅ Token saved: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjU1MzE5MjMsImV4cCI6MTc5NzA4OTUyM30.i_nenjROEgC43cttOrgKG4UFO5p3rcNMs6vZM41lqVw
-2025-12-12 15:02:03 [main] INFO  com.tests.ecommerce.LoginTest - ✅ User Id generated: 6905d428f669d6cb0a3a2da5
-2025-12-12 15:02:03 [main] INFO  com.tests.ecommerce.LoginTest - ✅ Message:Login Successfully 
-2025-12-12 15:02:04 [main] INFO  c.tests.ecommerce.CreateProductTest - ✅ Product added: 693be11432ed8658712ebe67
-2025-12-12 15:02:04 [main] INFO  c.tests.ecommerce.CreateProductTest - ✅ Message: Product Added Successfully
-2025-12-12 15:02:04 [main] INFO  com.tests.ecommerce.CreateOrderTest - ✅ Order added: 693be11432ed8658712ebe6b
-2025-12-12 15:02:04 [main] INFO  com.tests.ecommerce.CreateOrderTest - ✅ Product: 693be11432ed8658712ebe67
-2025-12-12 15:02:04 [main] INFO  com.tests.ecommerce.CreateOrderTest - ✅ Message: Order Placed Successfully
-2025-12-12 15:02:04 [main] INFO  com.tests.ecommerce.GetOrderTest - ✅ _id: 693be11432ed8658712ebe6b
-2025-12-12 15:02:04 [main] INFO  com.tests.ecommerce.GetOrderTest - ✅ orderById: 6905d428f669d6cb0a3a2da5
-2025-12-12 15:02:04 [main] INFO  com.tests.ecommerce.GetOrderTest - ✅ orderBy: thomasukutty6@gmail.com
-2025-12-12 15:02:04 [main] INFO  com.tests.ecommerce.GetOrderTest - ✅ productOrderedId: 693be11432ed8658712ebe67
-2025-12-12 15:02:04 [main] INFO  com.tests.ecommerce.GetOrderTest - ✅ productName: qwerty
-2025-12-12 15:02:04 [main] INFO  com.tests.ecommerce.GetOrderTest - ✅ country: British Indian Ocean Territory
-2025-12-12 15:02:04 [main] INFO  com.tests.ecommerce.GetOrderTest - ✅ productDescription: Addias Originals
-2025-12-12 15:02:04 [main] INFO  com.tests.ecommerce.GetOrderTest - ✅ productImage: https://rahulshettyacademy.com/api/ecom/uploads/productImage_1765531924347.jpeg
-2025-12-12 15:02:04 [main] INFO  com.tests.ecommerce.GetOrderTest - ✅ orderPrice: 11500
-2025-12-12 15:02:04 [main] INFO  com.tests.ecommerce.GetOrderTest - ✅ __v: 0
-2025-12-12 15:02:04 [main] INFO  com.tests.ecommerce.GetOrderTest - ✅ message: Orders fetched for customer Successfully
-2025-12-12 15:02:04 [main] INFO  com.tests.ecommerce.DeleteOrderTest - ✅ Message: Orders Deleted Successfully
-2025-12-12 15:02:04 [main] INFO  c.tests.ecommerce.DeleteProductTest - ✅ Message: Product Deleted Successfully
+2025-12-13 00:20:20 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 00:20:20 [main] INFO  com.hooks.LibraryHooks - ✅ ID : bcdcsdcfdd223457
+2025-12-13 00:20:47 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 00:20:47 [main] INFO  com.hooks.LibraryHooks - ✅ ID : bcdcsdcfdd223457
+2025-12-13 00:23:02 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 00:23:02 [main] INFO  com.hooks.LibraryHooks - ✅ ID : bcdcsdcfdd223457
+2025-12-13 00:23:55 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: null
+2025-12-13 00:23:55 [main] INFO  com.hooks.LibraryHooks - ✅ ID : null
+2025-12-13 00:23:55 [main] INFO  com.hooks.LibraryHooks - ✅ msg: null
+2025-12-13 00:24:35 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 00:24:35 [main] INFO  com.hooks.LibraryHooks - ✅ ID : dscas232427
+2025-12-13 00:25:16 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 00:25:16 [main] INFO  com.hooks.LibraryHooks - ✅ ID : drcas227
+2025-12-13 00:25:16 [main] INFO  com.hooks.LibraryHooks - ✅ msg: null
+2025-12-13 01:29:50 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 01:29:50 [main] INFO  com.hooks.LibraryHooks - ✅ ID : drcas227
+2025-12-13 01:29:50 [main] INFO  com.hooks.LibraryHooks - ✅ msg: null
+2025-12-13 01:46:20 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 01:46:20 [main] INFO  com.hooks.LibraryHooks - ✅ ID : drcas227
+2025-12-13 01:46:20 [main] INFO  com.hooks.LibraryHooks - ✅ msg: null
+2025-12-13 04:04:01 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: null
+2025-12-13 04:04:01 [main] INFO  com.hooks.LibraryHooks - ✅ ID : null
+2025-12-13 04:09:02 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: null
+2025-12-13 04:09:02 [main] INFO  com.hooks.LibraryHooks - ✅ ID : null
+2025-12-13 04:14:11 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: null
+2025-12-13 04:14:11 [main] INFO  com.hooks.LibraryHooks - ✅ ID : null
+2025-12-13 04:15:43 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: null
+2025-12-13 04:15:43 [main] INFO  com.hooks.LibraryHooks - ✅ ID : null
+2025-12-13 04:16:45 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 04:16:45 [main] INFO  com.hooks.LibraryHooks - ✅ ID : drcas227
+2025-12-13 04:16:45 [main] INFO  com.hooks.LibraryHooks - ✅ msg: null
+2025-12-13 04:18:42 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: null
+2025-12-13 04:18:42 [main] INFO  com.hooks.LibraryHooks - ✅ ID : null
+2025-12-13 04:19:07 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 04:19:07 [main] INFO  com.hooks.LibraryHooks - ✅ ID : drytr787
+2025-12-13 04:19:07 [main] INFO  com.hooks.LibraryHooks - ✅ msg: null
+2025-12-13 04:21:12 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 04:21:12 [main] INFO  com.hooks.LibraryHooks - ✅ ID : drytr787
+2025-12-13 04:21:13 [main] INFO  com.hooks.LibraryHooks - ✅ msg: book is successfully deleted
+2025-12-13 05:47:44 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 05:47:44 [main] INFO  com.hooks.LibraryHooks - ✅ ID : drytr787
+2025-12-13 05:47:45 [main] INFO  com.hooks.LibraryHooks - ✅ msg: book is successfully deleted
+2025-12-13 06:22:35 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 06:22:35 [main] INFO  com.hooks.LibraryHooks - ✅ ID : drytr787
+2025-12-13 06:22:35 [main] INFO  com.hooks.LibraryHooks - ✅ msg: book is successfully deleted
+2025-12-13 06:33:08 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 06:33:08 [main] INFO  com.hooks.LibraryHooks - ✅ ID : drytr787
+2025-12-13 06:45:12 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: null
+2025-12-13 06:45:12 [main] INFO  com.hooks.LibraryHooks - ✅ ID : null
+2025-12-13 06:45:46 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 06:45:46 [main] INFO  com.hooks.LibraryHooks - ✅ ID : dsatr457
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Man Automation with Java
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : dsatr
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 457
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Far from the Madding Crowd
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : jfkl
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1123
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : ET934
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : IND565
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 798
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Jerome
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 3218
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 6261
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : c++
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS967
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : c++
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS130
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : c++
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS461
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS239
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : C
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS53
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : C++
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS409
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : JAVA
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS651
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : PYTHON
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS280
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS960
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : C
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS206
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : C++
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS485
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : JAVA
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS855
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : PYTHON
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS720
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS10
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS519
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS433
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS428
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS877
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS755
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS883
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS85
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS91
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS215
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS975
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS761
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS173
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS105
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS595
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS575
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS831
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS558
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS20
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS724
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS345
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS890
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn javascript
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : dre
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 344
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Scrummaging - The Dark Arts
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : pro
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 213
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Scrummaging - How to get away with murder
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : prop
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1337
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO968
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO878
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO293
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO267
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO309
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO600
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO341
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO346
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO506
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO706
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO322
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO73
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO467
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO937
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO337
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Levi
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 455
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 47
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : fuchsia May
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 309
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 830
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Jungle Book
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : wxy
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 9999
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Mandelay Book
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS395
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 22334
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Mandelay Book
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS22
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 22334
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Computers
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : Book962
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 111
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Computers
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : Book288
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 111
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Robinson Crusoe
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS916
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2557
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Robinson Crusoe
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS56
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2557
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Into The Wild
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : FR
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 59000
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Into The Wild - John
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : FR
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 59160
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : fuchsia April
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 870
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1520
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : grey February
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 76
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1420
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : lavender
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 541
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2164
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : tan February
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 294
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2635
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : magenta February
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 223
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 430
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : magenta November
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 254
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3120
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : A Catskill Eagle
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 0887950825
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 6466
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : p987q32r
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2054
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : p987q32r
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2053
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : p987q32r
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2057
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Introduction to Algorithms
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : i567a34b
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 5129
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : grey May
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 870
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 670
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmerjava
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : uyt
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2289
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmerjava9
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : iop
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2289
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : hvhjfh
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : hvhjoopfh
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS780
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS159
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS701
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS867
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS275
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS940
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS36
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS409
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS511
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS698
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS611
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS951
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS744
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS407
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : sky blue December
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 19600
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 405
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : black September
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 938
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2420
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : fuchsia February
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 514
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3400
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS678
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227992277
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS403
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227992277
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS739
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227992277
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS1000
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227992277
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS879
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 225
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : salmon August
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 100
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2305
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Adventure Tom Sawyre
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : ENG
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 4
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : lime October
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 992
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3925
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : teal January
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 403
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 780
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : pink July
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 99
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3795
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : red August
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 468
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2180
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : green October
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 119
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2500
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : orchid June
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 914
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3995
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Heavy Rain
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 552145
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 99876
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Heavy Rain
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 552134
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 99822
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Heavy Rain
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 552134
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 998322
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : gold August
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 931
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1030
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : mint green May
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 722
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3850
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Man Automation with Java
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : dsatr
+2025-12-13 06:45:46 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 457
+2025-12-13 07:07:30 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 07:07:30 [main] INFO  com.hooks.LibraryHooks - ✅ ID : oireur007
+2025-12-13 07:07:30 [main] INFO  com.hooks.LibraryHooks - ✅ msg: book is successfully deleted
+2025-12-13 07:08:30 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 07:08:30 [main] INFO  com.hooks.LibraryHooks - ✅ ID : oireur007
+2025-12-13 07:08:30 [main] INFO  com.hooks.LibraryHooks - ✅ msg: book is successfully deleted
+2025-12-13 07:11:53 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 07:11:53 [main] INFO  com.hooks.LibraryHooks - ✅ ID : oireur007
+2025-12-13 07:11:53 [main] INFO  com.hooks.LibraryHooks - ✅ msg: book is successfully deleted
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Man Automation with Java
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : dsatr
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 457
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Far from the Madding Crowd
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : jfkl
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1123
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : ET934
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : IND565
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 798
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Jerome
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 3218
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 6261
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : c++
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS967
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : c++
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS130
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : c++
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS461
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS239
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : C
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS53
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : C++
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS409
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : JAVA
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS651
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : PYTHON
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS280
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS960
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : C
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS206
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : C++
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS485
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : JAVA
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS855
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : PYTHON
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS720
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS10
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS519
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS433
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS428
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS877
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS755
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS883
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS85
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS91
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS215
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS975
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS761
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS173
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS105
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS595
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS575
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS831
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS558
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS20
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS724
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS345
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS890
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn javascript
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : dre
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 344
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Scrummaging - The Dark Arts
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : pro
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 213
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Scrummaging - How to get away with murder
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : prop
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1337
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO968
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO878
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO293
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO267
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO309
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO600
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO341
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO346
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO506
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO706
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO322
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO73
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO467
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO937
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO337
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Levi
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 455
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 47
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : fuchsia May
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 309
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 830
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Jungle Book
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : wxy
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 9999
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Mandelay Book
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS395
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 22334
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Mandelay Book
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS22
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 22334
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Computers
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : Book962
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 111
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Computers
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : Book288
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 111
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Robinson Crusoe
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS916
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2557
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Robinson Crusoe
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS56
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2557
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Into The Wild
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : FR
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 59000
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Into The Wild - John
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : FR
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 59160
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : fuchsia April
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 870
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1520
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : grey February
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 76
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1420
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : lavender
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 541
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2164
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : tan February
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 294
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2635
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : magenta February
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 223
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 430
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : magenta November
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 254
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3120
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : A Catskill Eagle
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 0887950825
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 6466
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : p987q32r
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2054
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : p987q32r
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2053
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : p987q32r
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2057
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Introduction to Algorithms
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : i567a34b
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 5129
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : grey May
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 870
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 670
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmerjava
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : uyt
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2289
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmerjava9
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : iop
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2289
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : hvhjfh
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : hvhjoopfh
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS780
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS159
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS701
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS867
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS275
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS940
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS36
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS409
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS511
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS698
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS611
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS951
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS744
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS407
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : sky blue December
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 19600
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 405
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : black September
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 938
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2420
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : fuchsia February
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 514
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3400
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS678
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227992277
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS403
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227992277
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS739
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227992277
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS1000
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227992277
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS879
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 225
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : salmon August
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 100
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2305
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Adventure Tom Sawyre
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : ENG
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 4
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : lime October
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 992
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3925
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : teal January
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 403
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 780
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : pink July
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 99
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3795
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : red August
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 468
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2180
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : green October
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 119
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2500
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : orchid June
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 914
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3995
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Heavy Rain
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 552145
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 99876
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Heavy Rain
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 552134
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 99822
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Heavy Rain
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 552134
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 998322
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : gold August
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 931
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1030
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : mint green May
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 722
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3850
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Man Automation with Java
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : dsatr
+2025-12-13 07:11:54 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 457
+2025-12-13 07:13:33 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 07:13:33 [main] INFO  com.hooks.LibraryHooks - ✅ ID : oireur007
+2025-12-13 07:13:33 [main] INFO  com.hooks.LibraryHooks - ✅ msg: book is successfully deleted
+2025-12-13 07:13:33 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Man Automation with Java
+2025-12-13 07:13:33 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : dsatr
+2025-12-13 07:13:33 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 457
+2025-12-13 07:13:33 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : Thomas
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Far from the Madding Crowd
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : jfkl
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1123
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : ET934
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : IND565
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 798
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Jerome
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 3218
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 6261
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : c++
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS967
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : c++
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS130
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : c++
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS461
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS239
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : C
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS53
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : C++
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS409
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : JAVA
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS651
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : PYTHON
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS280
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS960
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : C
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS206
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : C++
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS485
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : JAVA
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS855
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : PYTHON
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS720
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS10
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS519
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS433
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS428
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS877
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS755
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS883
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS85
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS91
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS215
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS975
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS761
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS173
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS105
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS595
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS575
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS831
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS558
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS20
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS724
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS345
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS890
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn javascript
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : dre
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 344
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Scrummaging - The Dark Arts
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : pro
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 213
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Scrummaging - How to get away with murder
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : prop
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1337
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO968
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO878
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO293
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO267
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO309
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO600
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO341
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO346
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO506
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO706
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO322
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO73
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO467
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO937
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO337
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Levi
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 455
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 47
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : fuchsia May
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 309
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 830
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Jungle Book
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : wxy
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 9999
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Mandelay Book
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS395
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 22334
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Mandelay Book
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS22
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 22334
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Computers
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : Book962
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 111
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Computers
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : Book288
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 111
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Robinson Crusoe
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS916
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2557
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Robinson Crusoe
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS56
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2557
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Into The Wild
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : FR
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 59000
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Into The Wild - John
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : FR
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 59160
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : fuchsia April
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 870
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1520
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : grey February
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 76
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1420
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : lavender
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 541
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2164
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : tan February
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 294
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2635
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : magenta February
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 223
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 430
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : magenta November
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 254
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3120
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : A Catskill Eagle
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 0887950825
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 6466
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : p987q32r
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2054
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : p987q32r
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2053
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : p987q32r
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2057
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Introduction to Algorithms
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : i567a34b
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 5129
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : grey May
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 870
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 670
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmerjava
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : uyt
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2289
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmerjava9
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : iop
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2289
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : hvhjfh
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : hvhjoopfh
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS780
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS159
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS701
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS867
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS275
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS940
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS36
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS409
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS511
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS698
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS611
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS951
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS744
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS407
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : sky blue December
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 19600
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 405
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : black September
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 938
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2420
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : fuchsia February
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 514
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3400
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS678
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227992277
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS403
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227992277
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS739
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227992277
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS1000
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227992277
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS879
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 225
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : salmon August
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 100
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2305
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Adventure Tom Sawyre
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : ENG
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 4
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : lime October
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 992
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3925
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : teal January
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 403
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 780
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : pink July
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 99
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3795
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : red August
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 468
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2180
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : green October
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 119
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2500
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : orchid June
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 914
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3995
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Heavy Rain
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 552145
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 99876
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Heavy Rain
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 552134
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 99822
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Heavy Rain
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 552134
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 998322
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : gold August
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 931
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1030
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : mint green May
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 722
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3850
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Man Automation with Java
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : dsatr
+2025-12-13 07:13:34 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 457
+2025-12-13 22:29:13 [main] INFO  com.hooks.LibraryHooks - ✅ Msg: successfully added
+2025-12-13 22:29:13 [main] INFO  com.hooks.LibraryHooks - ✅ ID : oireur007
+2025-12-13 22:29:13 [main] INFO  com.hooks.LibraryHooks - ✅ msg: book is successfully deleted
+2025-12-13 22:29:13 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Man Automation with Java
+2025-12-13 22:29:13 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : dsatr
+2025-12-13 22:29:13 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 457
+2025-12-13 22:29:13 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : Thomas
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Far from the Madding Crowd
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : jfkl
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1123
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : ET934
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : IND565
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 798
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Jerome
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 3218
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 6261
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : c++
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS967
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : c++
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS130
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : c++
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS461
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS239
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : C
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS53
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : C++
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS409
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : JAVA
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS651
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : PYTHON
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS280
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS960
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : C
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS206
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : C++
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS485
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : JAVA
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS855
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : PYTHON
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS720
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS10
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS519
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS433
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS428
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS877
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS755
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS883
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS85
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS91
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS215
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS975
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS761
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS173
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS105
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS595
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS575
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS831
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS558
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS20
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS724
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS345
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : {{Bookname}}
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS890
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2738437
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn javascript
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : dre
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 344
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Scrummaging - The Dark Arts
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : pro
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 213
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Scrummaging - How to get away with murder
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : prop
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1337
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO968
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO878
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO293
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO267
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO309
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO600
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO341
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO346
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO506
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO706
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO322
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO73
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO467
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO937
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Catan for Dummies
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : PRO337
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 202
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Levi
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 455
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 47
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : fuchsia May
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 309
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 830
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Jungle Book
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : wxy
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 9999
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Mandelay Book
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS395
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 22334
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Mandelay Book
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS22
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 22334
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Computers
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : Book962
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 111
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Computers
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : Book288
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 111
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Robinson Crusoe
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS916
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2557
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Robinson Crusoe
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS56
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2557
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Into The Wild
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : FR
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 59000
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Into The Wild - John
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : FR
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 59160
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : fuchsia April
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 870
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1520
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : grey February
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 76
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1420
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : lavender
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 541
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2164
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : tan February
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 294
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2635
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : magenta February
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 223
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 430
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : magenta November
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 254
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3120
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : A Catskill Eagle
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 0887950825
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 6466
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : p987q32r
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2054
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : p987q32r
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2053
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : p987q32r
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2057
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Introduction to Algorithms
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : i567a34b
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 5129
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : grey May
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 870
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 670
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmerjava
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : uyt
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2289
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmerjava9
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : iop
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2289
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : hvhjfh
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : hvhjoopfh
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS780
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS159
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS701
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS867
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS275
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS940
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS36
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS409
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS511
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS698
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS611
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS951
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS744
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Pragmatic Programmer sruthy
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS407
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 229988
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : sky blue December
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 19600
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 405
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : black September
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 938
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2420
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : fuchsia February
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 514
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3400
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS678
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227992277
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS403
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227992277
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS739
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227992277
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS1000
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 227992277
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Appium Automation with Java
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : RS879
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 225
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : salmon August
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 100
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2305
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : The Adventure Tom Sawyre
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : ENG
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 4
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : lime October
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 992
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3925
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : teal January
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 403
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 780
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : pink July
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 99
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3795
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : red August
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 468
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2180
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : green October
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 119
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 2500
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : orchid June
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 914
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3995
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Heavy Rain
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 552145
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 99876
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Heavy Rain
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 552134
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 99822
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Heavy Rain
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 552134
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 998322
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : gold August
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 931
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 1030
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : mint green May
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : 722
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 3850
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ book_name : Learn Man Automation with Java
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ isbn : dsatr
+2025-12-13 22:29:14 [main] INFO  c.s.library.GetBookDetails - ✅ aisle : 457

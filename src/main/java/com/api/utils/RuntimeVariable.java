@@ -13,4 +13,12 @@ public class RuntimeVariable {
     public static Object get(String key){
         return data.get(key);
     }
+
+    public static <T> T get(String key, Class<T> type){
+        return type.cast(data.get(key));
+    }
+
+    public static boolean contains(String key){
+        return data.containsKey(key);
+    }
 }
