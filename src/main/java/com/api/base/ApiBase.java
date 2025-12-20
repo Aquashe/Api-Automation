@@ -1,6 +1,6 @@
 package com.api.base;
 
-import com.api.files.SpecBuilder;
+import com.api.files.SpecBuilderDemo;
 import io.restassured.specification.RequestSpecification;
 import static io.restassured.RestAssured.given;
 
@@ -13,8 +13,8 @@ public class ApiBase {
 
 
     static {
-        requestJsonPart = given().spec(SpecBuilder.jsonPartRequestSpecification());
-        requestMultiPart = given().spec(SpecBuilder.multiPartRequestSpecification());
-        requestNoBodyPart = given().spec(SpecBuilder.noBodyPartRequestSpecification());
+        requestJsonPart = given().spec(SpecBuilderDemo.jsonPartRequestSpecification());
+        requestMultiPart = given().spec(SpecBuilderDemo.multiPartRequestSpecification());
+        requestNoBodyPart = given().spec(SpecBuilderDemo.noBodyPartRequestSpecification());
     }
 }

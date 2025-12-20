@@ -1,6 +1,6 @@
 package com.tests.library;
 
-import com.api.files.SpecBuilder;
+import com.api.files.SpecBuilderDemo;
 import com.api.pojo.libary.response.BookDetailsResponse;
 import com.api.utils.GlobalData;
 import com.base.ApiBaseTest;
@@ -32,7 +32,7 @@ public class FetchBookDetails extends ApiBaseTest {
 
         Response response = getBookByIdRequest.when()
                 .get("Library/GetBook.php?ID={bookId}")
-                .then().spec(SpecBuilder.responseSpecification(200))
+                .then().spec(SpecBuilderDemo.responseSpecification(200))
                 .extract().response();
 
         List<BookDetailsResponse> bookDetailsResponse = Arrays.asList(response.as(BookDetailsResponse[].class));
@@ -51,7 +51,7 @@ public class FetchBookDetails extends ApiBaseTest {
 
         Response response = getBookByIdRequest.when()
                 .get("Library/GetBook.php?AuthorName={authorName}")
-                .then().spec(SpecBuilder.responseSpecification(200))
+                .then().spec(SpecBuilderDemo.responseSpecification(200))
                 .extract().response();
 
         List<BookDetailsResponse> bookDetailsResponse = Arrays.asList(response.as(BookDetailsResponse[].class));

@@ -1,14 +1,14 @@
 package com.base;
 
 
-import com.api.files.SpecBuilder2;
+import com.api.files.SpecBuilder;
 import com.resources.core.ApiResource;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
 public class ApiBaseTest {
-    protected static SpecBuilder2 Spec_Builder =  new SpecBuilder2();
+    protected static SpecBuilder Spec_Builder =  new SpecBuilder();
 
     static {
         RestAssured.useRelaxedHTTPSValidation();

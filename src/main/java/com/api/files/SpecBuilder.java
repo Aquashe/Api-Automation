@@ -25,32 +25,33 @@ public class SpecBuilder {
             throw new RuntimeException(e);
         }
     }
-    public static RequestSpecification jsonPartRequestSpecification() {
-        return new RequestSpecBuilder().setBaseUri(ConfigReader.get("baseUrl"))
+    public RequestSpecification jsonPartRequestSpecification(String baseUrl) {
+        return new RequestSpecBuilder().setBaseUri(ConfigReader.get(baseUrl))
                 .addFilter(RequestLoggingFilter.logRequestTo(printStream))
                 .addFilter(ResponseLoggingFilter.logResponseTo(printStream))
                 .setContentType(ContentType.JSON)
-                .build();
+                .build().log().all();
     }
 
-    public static RequestSpecification multiPartRequestSpecification() {
-        return new RequestSpecBuilder().setBaseUri(ConfigReader.get("baseUrl"))
+    public RequestSpecification multiPartRequestSpecification(String baseUrl) {
+        return new RequestSpecBuilder().setBaseUri(ConfigReader.get(baseUrl))
                 .addFilter(RequestLoggingFilter.logRequestTo(printStream))
                 .addFilter(ResponseLoggingFilter.logResponseTo(printStream))
                 .setContentType("multipart/form-data")
-                .build();
+                .build().log().all();
     }
 
-    public static RequestSpecification noBodyPartRequestSpecification() {
-        return new RequestSpecBuilder().setBaseUri(ConfigReader.get("baseUrl"))
+    public RequestSpecification noBodyPartRequestSpecification(String baseUrl) {
+        return new RequestSpecBuilder().setBaseUri(ConfigReader.get(baseUrl))
                 .addFilter(RequestLoggingFilter.logRequestTo(printStream))
                 .addFilter(ResponseLoggingFilter.logResponseTo(printStream))
-                .build();
+                .build().log().all();
     }
 
-    public static ResponseSpecification responseSpecification(int statusCode) {
+    public ResponseSpecification responseSpecification(int statusCode) {
         return new ResponseSpecBuilder().expectStatusCode(statusCode)
                 .expectContentType(ContentType.JSON)
+                .log(LogDetail.ALL)
                 .build();
     }
 }
