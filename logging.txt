@@ -1,39 +1,119 @@
 Request method:	POST
-Request URI:	https://rahulshettyacademy.com/Library/Addbook.php
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
 Proxy:			<none>
 Request params:	<none>
 Query params:	<none>
 Form params:	<none>
-Path params:	<none>
+Path params:	key=qaclick123
 Headers:		Accept=*/*
 				Content-Type=application/json
 Cookies:		<none>
 Multiparts:		<none>
 Body:
 {
-    "name": "Learn Man Automation with Java",
-    "isbn": "oireur",
-    "aisle": "007",
-    "author": "Thomas"
+    "location": {
+        "lat": -38.383494,
+        "lng": 33.427362
+    },
+    "accuracy": 50,
+    "name": "Frontline house",
+    "phone_number": "(+91) 983 893 3937",
+    "address": "29, side layout, cohen 09",
+    "types": [
+        "shoe park",
+        "shop"
+    ],
+    "website": "http://google.com",
+    "language": "French-IN"
 }
 HTTP/1.1 200 OK
-Date: Sat, 13 Dec 2025 16:59:12 GMT
+Date: Sat, 20 Dec 2025 06:41:14 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
 Access-Control-Max-Age: 3600
 Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
-Content-Length: 45
+Content-Length: 194
 Keep-Alive: timeout=5, max=100
 Connection: Keep-Alive
 Content-Type: application/json;charset=UTF-8
 
 {
-    "Msg": "successfully added",
-    "ID": "oireur007"
+    "status": "OK",
+    "place_id": "05f02b5f4e108cf8ed2ec681fc2daae9",
+    "scope": "APP",
+    "reference": "bc1fd5a959efef712f5437ba0f30b312bc1fd5a959efef712f5437ba0f30b312",
+    "id": "bc1fd5a959efef712f5437ba0f30b312"
 }
 Request method:	DELETE
-Request URI:	https://rahulshettyacademy.com/Library/DeleteBook.php
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	key=qaclick123
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "05f02b5f4e108cf8ed2ec681fc2daae9"
+}
+HTTP/1.1 200 OK
+Date: Sat, 20 Dec 2025 06:41:14 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 15
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?place_id=4a5db91f2ad5988ac994e2de49b75521&key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	key=qaclick123
+				placeId=4a5db91f2ad5988ac994e2de49b75521
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Sat, 20 Dec 2025 06:41:17 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 265
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "location": {
+        "latitude": "-38.383434",
+        "longitude": "33.4276542"
+    },
+    "accuracy": "10",
+    "name": "Bsckline house",
+    "phone_number": "(+91) 983 893 3454",
+    "address": "29, side layout, cohen 10",
+    "types": "shoe park,shop,market",
+    "website": "http://google.com",
+    "language": "Italian-IN"
+}
+Request method:	PUT
+Request URI:	https://rahulshettyacademy.com/maps/api/place/update/json
 Proxy:			<none>
 Request params:	<none>
 Query params:	<none>
@@ -45,10 +125,12 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:
 {
-    "ID": "oireur007"
+    "place_id": "4a5db91f2ad5988ac994e2de49b75521",
+    "address": "70 Summer walk, Florida",
+    "key": "qaclick123"
 }
 HTTP/1.1 200 OK
-Date: Sat, 13 Dec 2025 16:59:13 GMT
+Date: Sat, 20 Dec 2025 06:41:19 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -60,661 +142,37 @@ Connection: Keep-Alive
 Content-Type: application/json;charset=UTF-8
 
 {
-    "msg": "book is successfully deleted"
+    "msg": "Address successfully updated"
 }
-Request method:	GET
-Request URI:	https://rahulshettyacademy.com/Library/GetBook.php?ID=dsatr457
+Request method:	PUT
+Request URI:	https://rahulshettyacademy.com/maps/api/place/update/json
 Proxy:			<none>
 Request params:	<none>
 Query params:	<none>
 Form params:	<none>
-Path params:	bookId=dsatr457
+Path params:	<none>
 Headers:		Accept=*/*
+				Content-Type=application/json
 Cookies:		<none>
 Multiparts:		<none>
-Body:			<none>
+Body:
+{
+    "place_id": "4a5db91f2ad5988ac994e2de49b75521",
+    "address": "29, side layout, cohen 10",
+    "key": "qaclick123"
+}
 HTTP/1.1 200 OK
-Date: Sat, 13 Dec 2025 16:59:13 GMT
+Date: Sat, 20 Dec 2025 06:41:21 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
 Access-Control-Max-Age: 3600
 Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
-Content-Length: 95
+Content-Length: 38
 Keep-Alive: timeout=5, max=100
 Connection: Keep-Alive
 Content-Type: application/json;charset=UTF-8
 
-[
-    {
-        "book_name": "Learn Man Automation with Java",
-        "isbn": "dsatr",
-        "aisle": "457",
-        "author": "Thomas"
-    }
-]
-Request method:	GET
-Request URI:	https://rahulshettyacademy.com/Library/GetBook.php?AuthorName=Thomas
-Proxy:			<none>
-Request params:	<none>
-Query params:	<none>
-Form params:	<none>
-Path params:	authorName=Thomas
-Headers:		Accept=*/*
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-HTTP/1.1 200 OK
-Date: Sat, 13 Dec 2025 16:59:13 GMT
-Server: Apache/2.4.52 (Ubuntu)
-Access-Control-Allow-Origin: *
-Access-Control-Allow-Methods: POST
-Access-Control-Max-Age: 3600
-Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
-Content-Length: 7797
-Keep-Alive: timeout=5, max=100
-Connection: Keep-Alive
-Content-Type: application/json;charset=UTF-8
-
-[
-    {
-        "book_name": "Far from the Madding Crowd",
-        "isbn": "jfkl",
-        "aisle": "1123"
-    },
-    {
-        "book_name": "Learn Appium Automation with Java",
-        "isbn": "ET934",
-        "aisle": "227"
-    },
-    {
-        "book_name": "Learn Appium Automation with Java",
-        "isbn": "IND565",
-        "aisle": "798"
-    },
-    {
-        "book_name": "Jerome",
-        "isbn": "3218",
-        "aisle": "6261"
-    },
-    {
-        "book_name": "c++",
-        "isbn": "RS967",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "c++",
-        "isbn": "RS130",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "c++",
-        "isbn": "RS461",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS239",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "C",
-        "isbn": "RS53",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "C++",
-        "isbn": "RS409",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "JAVA",
-        "isbn": "RS651",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "PYTHON",
-        "isbn": "RS280",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS960",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "C",
-        "isbn": "RS206",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "C++",
-        "isbn": "RS485",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "JAVA",
-        "isbn": "RS855",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "PYTHON",
-        "isbn": "RS720",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS10",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS519",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS433",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS428",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS877",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS755",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS883",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS85",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS91",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS215",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS975",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS761",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS173",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS105",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS595",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS575",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS831",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS558",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS20",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS724",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS345",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "{{Bookname}}",
-        "isbn": "RS890",
-        "aisle": "2738437"
-    },
-    {
-        "book_name": "Learn javascript",
-        "isbn": "dre",
-        "aisle": "344"
-    },
-    {
-        "book_name": "Scrummaging - The Dark Arts",
-        "isbn": "pro",
-        "aisle": "213"
-    },
-    {
-        "book_name": "Scrummaging - How to get away with murder",
-        "isbn": "prop",
-        "aisle": "1337"
-    },
-    {
-        "book_name": "Catan for Dummies",
-        "isbn": "PRO968",
-        "aisle": "202"
-    },
-    {
-        "book_name": "Catan for Dummies",
-        "isbn": "PRO878",
-        "aisle": "202"
-    },
-    {
-        "book_name": "Catan for Dummies",
-        "isbn": "PRO293",
-        "aisle": "202"
-    },
-    {
-        "book_name": "Catan for Dummies",
-        "isbn": "PRO267",
-        "aisle": "202"
-    },
-    {
-        "book_name": "Catan for Dummies",
-        "isbn": "PRO309",
-        "aisle": "202"
-    },
-    {
-        "book_name": "Catan for Dummies",
-        "isbn": "PRO600",
-        "aisle": "202"
-    },
-    {
-        "book_name": "Catan for Dummies",
-        "isbn": "PRO341",
-        "aisle": "202"
-    },
-    {
-        "book_name": "Catan for Dummies",
-        "isbn": "PRO346",
-        "aisle": "202"
-    },
-    {
-        "book_name": "Catan for Dummies",
-        "isbn": "PRO506",
-        "aisle": "202"
-    },
-    {
-        "book_name": "Catan for Dummies",
-        "isbn": "PRO706",
-        "aisle": "202"
-    },
-    {
-        "book_name": "Catan for Dummies",
-        "isbn": "PRO322",
-        "aisle": "202"
-    },
-    {
-        "book_name": "Catan for Dummies",
-        "isbn": "PRO73",
-        "aisle": "202"
-    },
-    {
-        "book_name": "Catan for Dummies",
-        "isbn": "PRO467",
-        "aisle": "202"
-    },
-    {
-        "book_name": "Catan for Dummies",
-        "isbn": "PRO937",
-        "aisle": "202"
-    },
-    {
-        "book_name": "Catan for Dummies",
-        "isbn": "PRO337",
-        "aisle": "202"
-    },
-    {
-        "book_name": "Levi",
-        "isbn": "455",
-        "aisle": "47"
-    },
-    {
-        "book_name": "fuchsia May",
-        "isbn": "309",
-        "aisle": "830"
-    },
-    {
-        "book_name": "Jungle Book",
-        "isbn": "wxy",
-        "aisle": "9999"
-    },
-    {
-        "book_name": "Mandelay Book",
-        "isbn": "RS395",
-        "aisle": "22334"
-    },
-    {
-        "book_name": "Mandelay Book",
-        "isbn": "RS22",
-        "aisle": "22334"
-    },
-    {
-        "book_name": "Computers",
-        "isbn": "Book962",
-        "aisle": "111"
-    },
-    {
-        "book_name": "Computers",
-        "isbn": "Book288",
-        "aisle": "111"
-    },
-    {
-        "book_name": "Robinson Crusoe",
-        "isbn": "RS916",
-        "aisle": "2557"
-    },
-    {
-        "book_name": "Robinson Crusoe",
-        "isbn": "RS56",
-        "aisle": "2557"
-    },
-    {
-        "book_name": "Into The Wild",
-        "isbn": "FR",
-        "aisle": "59000"
-    },
-    {
-        "book_name": "Into The Wild - John",
-        "isbn": "FR",
-        "aisle": "59160"
-    },
-    {
-        "book_name": "fuchsia April",
-        "isbn": "870",
-        "aisle": "1520"
-    },
-    {
-        "book_name": "grey February",
-        "isbn": "76",
-        "aisle": "1420"
-    },
-    {
-        "book_name": "lavender",
-        "isbn": "541",
-        "aisle": "2164"
-    },
-    {
-        "book_name": "tan February",
-        "isbn": "294",
-        "aisle": "2635"
-    },
-    {
-        "book_name": "magenta February",
-        "isbn": "223",
-        "aisle": "430"
-    },
-    {
-        "book_name": "magenta November",
-        "isbn": "254",
-        "aisle": "3120"
-    },
-    {
-        "book_name": "A Catskill Eagle",
-        "isbn": "0887950825",
-        "aisle": "6466"
-    },
-    {
-        "book_name": "The Pragmatic Programmer",
-        "isbn": "p987q32r",
-        "aisle": "2054"
-    },
-    {
-        "book_name": "The Pragmatic Programmer",
-        "isbn": "p987q32r",
-        "aisle": "2053"
-    },
-    {
-        "book_name": "The Pragmatic Programmer",
-        "isbn": "p987q32r",
-        "aisle": "2057"
-    },
-    {
-        "book_name": "Introduction to Algorithms",
-        "isbn": "i567a34b",
-        "aisle": "5129"
-    },
-    {
-        "book_name": "grey May",
-        "isbn": "870",
-        "aisle": "670"
-    },
-    {
-        "book_name": "The Pragmatic Programmerjava",
-        "isbn": "uyt",
-        "aisle": "2289"
-    },
-    {
-        "book_name": "The Pragmatic Programmerjava9",
-        "isbn": "iop",
-        "aisle": "2289"
-    },
-    {
-        "book_name": "The Pragmatic Programmer sruthy",
-        "isbn": "hvhjfh",
-        "aisle": "229988"
-    },
-    {
-        "book_name": "The Pragmatic Programmer sruthy",
-        "isbn": "hvhjoopfh",
-        "aisle": "229988"
-    },
-    {
-        "book_name": "The Pragmatic Programmer sruthy",
-        "isbn": "RS780",
-        "aisle": "229988"
-    },
-    {
-        "book_name": "The Pragmatic Programmer sruthy",
-        "isbn": "RS159",
-        "aisle": "229988"
-    },
-    {
-        "book_name": "The Pragmatic Programmer sruthy",
-        "isbn": "RS701",
-        "aisle": "229988"
-    },
-    {
-        "book_name": "The Pragmatic Programmer sruthy",
-        "isbn": "RS867",
-        "aisle": "229988"
-    },
-    {
-        "book_name": "The Pragmatic Programmer sruthy",
-        "isbn": "RS275",
-        "aisle": "229988"
-    },
-    {
-        "book_name": "The Pragmatic Programmer sruthy",
-        "isbn": "RS940",
-        "aisle": "229988"
-    },
-    {
-        "book_name": "The Pragmatic Programmer sruthy",
-        "isbn": "RS36",
-        "aisle": "229988"
-    },
-    {
-        "book_name": "The Pragmatic Programmer sruthy",
-        "isbn": "RS409",
-        "aisle": "229988"
-    },
-    {
-        "book_name": "The Pragmatic Programmer sruthy",
-        "isbn": "RS511",
-        "aisle": "229988"
-    },
-    {
-        "book_name": "The Pragmatic Programmer sruthy",
-        "isbn": "RS698",
-        "aisle": "229988"
-    },
-    {
-        "book_name": "The Pragmatic Programmer sruthy",
-        "isbn": "RS611",
-        "aisle": "229988"
-    },
-    {
-        "book_name": "The Pragmatic Programmer sruthy",
-        "isbn": "RS951",
-        "aisle": "229988"
-    },
-    {
-        "book_name": "The Pragmatic Programmer sruthy",
-        "isbn": "RS744",
-        "aisle": "229988"
-    },
-    {
-        "book_name": "The Pragmatic Programmer sruthy",
-        "isbn": "RS407",
-        "aisle": "229988"
-    },
-    {
-        "book_name": "sky blue December",
-        "isbn": "19600",
-        "aisle": "405"
-    },
-    {
-        "book_name": "black September",
-        "isbn": "938",
-        "aisle": "2420"
-    },
-    {
-        "book_name": "fuchsia February",
-        "isbn": "514",
-        "aisle": "3400"
-    },
-    {
-        "book_name": "Learn Appium Automation with Java",
-        "isbn": "RS678",
-        "aisle": "227992277"
-    },
-    {
-        "book_name": "Learn Appium Automation with Java",
-        "isbn": "RS403",
-        "aisle": "227992277"
-    },
-    {
-        "book_name": "Learn Appium Automation with Java",
-        "isbn": "RS739",
-        "aisle": "227992277"
-    },
-    {
-        "book_name": "Learn Appium Automation with Java",
-        "isbn": "RS1000",
-        "aisle": "227992277"
-    },
-    {
-        "book_name": "Learn Appium Automation with Java",
-        "isbn": "RS879",
-        "aisle": "225"
-    },
-    {
-        "book_name": "salmon August",
-        "isbn": "100",
-        "aisle": "2305"
-    },
-    {
-        "book_name": "The Adventure Tom Sawyre",
-        "isbn": "ENG",
-        "aisle": "4"
-    },
-    {
-        "book_name": "lime October",
-        "isbn": "992",
-        "aisle": "3925"
-    },
-    {
-        "book_name": "teal January",
-        "isbn": "403",
-        "aisle": "780"
-    },
-    {
-        "book_name": "pink July",
-        "isbn": "99",
-        "aisle": "3795"
-    },
-    {
-        "book_name": "red August",
-        "isbn": "468",
-        "aisle": "2180"
-    },
-    {
-        "book_name": "green October",
-        "isbn": "119",
-        "aisle": "2500"
-    },
-    {
-        "book_name": "orchid June",
-        "isbn": "914",
-        "aisle": "3995"
-    },
-    {
-        "book_name": "Heavy Rain",
-        "isbn": "552145",
-        "aisle": "99876"
-    },
-    {
-        "book_name": "Heavy Rain",
-        "isbn": "552134",
-        "aisle": "99822"
-    },
-    {
-        "book_name": "Heavy Rain",
-        "isbn": "552134",
-        "aisle": "998322"
-    },
-    {
-        "book_name": "gold August",
-        "isbn": "931",
-        "aisle": "1030"
-    },
-    {
-        "book_name": "mint green May",
-        "isbn": "722",
-        "aisle": "3850"
-    },
-    {
-        "book_name": "Learn Man Automation with Java",
-        "isbn": "dsatr",
-        "aisle": "457"
-    }
-]
+{
+    "msg": "Address successfully updated"
+}

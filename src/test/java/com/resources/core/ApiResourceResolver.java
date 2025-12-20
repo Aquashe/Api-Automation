@@ -5,6 +5,7 @@ import com.api.exceptions.ApiException;
 public class ApiResourceResolver {
     private static final Class<? extends Enum<?>>[] API_ENUMS = new Class[]{
             com.resources.library.BookApiResources.class,
+            com.resources.place.PlaceApiResources.class,
     };
 
     public static ApiResource resolve(String resourceName) {
