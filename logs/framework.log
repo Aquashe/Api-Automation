@@ -150,3 +150,20 @@
 2025-12-20 12:11:19 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ language : Italian-IN
 2025-12-20 12:11:21 [main] INFO  c.stepDefinitions.place.UpdatePlace - ✅ msg  : Address successfully updated
 2025-12-20 12:11:24 [main] INFO  c.stepDefinitions.place.UpdatePlace - ✅ msg  : Address successfully updated
+2025-12-20 12:19:21 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ status : OK
+2025-12-20 12:19:21 [main] INFO  com.hooks.PlaceHooks - ✅ place_id        : 225a5992e71d4f72d3bc5638eba9cf6d
+2025-12-20 12:19:21 [main] INFO  com.hooks.PlaceHooks - ✅ scope           : APP
+2025-12-20 12:19:21 [main] INFO  com.hooks.PlaceHooks - ✅ reference       : 8d92f19624d6ba66b5aa415295903fbc8d92f19624d6ba66b5aa415295903fbc
+2025-12-20 12:19:21 [main] INFO  com.hooks.PlaceHooks - ✅ id              : 8d92f19624d6ba66b5aa415295903fbc
+2025-12-20 12:19:24 [main] INFO  c.stepDefinitions.place.DeletePlace - ✅ status  : OK
+2025-12-20 12:19:26 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ location : {
+	latitude : -38.383434 	longitude : 33.4276542}
+2025-12-20 12:19:26 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ accuracy  : 10
+2025-12-20 12:19:26 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ name : Bsckline house
+2025-12-20 12:19:26 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ phone_number  : (+91) 983 893 3454
+2025-12-20 12:19:26 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ address : 29, side layout, cohen 10
+2025-12-20 12:19:26 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ types : shoe park,shop,market
+2025-12-20 12:19:26 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ website  : http://google.com
+2025-12-20 12:19:26 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ language : Italian-IN
+2025-12-20 12:19:28 [main] INFO  c.stepDefinitions.place.UpdatePlace - ✅ msg  : Address successfully updated
+2025-12-20 12:19:31 [main] INFO  c.stepDefinitions.place.UpdatePlace - ✅ msg  : Address successfully updated
