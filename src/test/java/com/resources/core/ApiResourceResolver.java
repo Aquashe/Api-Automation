@@ -6,6 +6,7 @@ public class ApiResourceResolver {
     private static final Class<? extends Enum<?>>[] API_ENUMS = new Class[]{
             com.resources.library.BookApiResources.class,
             com.resources.place.PlaceApiResources.class,
+            com.resources.ecommerce.EcommerceApiResources.class,
     };
 
     public static ApiResource resolve(String resourceName) {

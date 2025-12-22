@@ -1,169 +1,227 @@
-2025-12-20 11:07:19 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ status : OK
-2025-12-20 11:07:19 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ place_id  : 1ac87dcd4316840d9796aedf63b2aa7a
-2025-12-20 11:07:19 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ scope : APP
-2025-12-20 11:07:19 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ reference  : da1baed789e1c04aafa01f320d3f9626da1baed789e1c04aafa01f320d3f9626
-2025-12-20 11:07:19 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ id : da1baed789e1c04aafa01f320d3f9626
-2025-12-20 11:11:47 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ status : OK
-2025-12-20 11:11:47 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ place_id  : 98c8ce2568f1dfee8393720b04410ca5
-2025-12-20 11:11:47 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ scope : APP
-2025-12-20 11:11:47 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ reference  : b6d933b5cbc22c306cf4e2c62744ad23b6d933b5cbc22c306cf4e2c62744ad23
-2025-12-20 11:11:47 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ id : b6d933b5cbc22c306cf4e2c62744ad23
-2025-12-20 11:11:49 [main] INFO  c.stepDefinitions.place.DeletePlace - ✅ status  : OK
-2025-12-20 11:36:37 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ status : OK
-2025-12-20 11:36:37 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ place_id  : 657779cd491862723f7c2872de7c5a41
-2025-12-20 11:36:37 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ scope : APP
-2025-12-20 11:36:37 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ reference  : 732a8c4906e5e185bb6c2672d5bcd167732a8c4906e5e185bb6c2672d5bcd167
-2025-12-20 11:36:37 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ id : 732a8c4906e5e185bb6c2672d5bcd167
-2025-12-20 11:36:39 [main] INFO  c.stepDefinitions.place.DeletePlace - ✅ status  : OK
-2025-12-20 11:40:19 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ status : OK
-2025-12-20 11:40:19 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ place_id  : 689cf47c530b614b82f64b5cb538a50a
-2025-12-20 11:40:19 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ scope : APP
-2025-12-20 11:40:19 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ reference  : 254f297ff7428b512a56cfe504c353d5254f297ff7428b512a56cfe504c353d5
-2025-12-20 11:40:19 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ id : 254f297ff7428b512a56cfe504c353d5
-2025-12-20 11:40:21 [main] INFO  c.stepDefinitions.place.DeletePlace - ✅ status  : OK
-2025-12-20 11:41:31 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ status : OK
-2025-12-20 11:41:31 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ place_id  : c06d8827e17e38af5724a55ab83d8a9c
-2025-12-20 11:41:31 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ scope : APP
-2025-12-20 11:41:31 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ reference  : 8cb3d268b63bfd85e4816065b5610bb38cb3d268b63bfd85e4816065b5610bb3
-2025-12-20 11:41:31 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ id : 8cb3d268b63bfd85e4816065b5610bb3
-2025-12-20 11:41:34 [main] INFO  c.stepDefinitions.place.DeletePlace - ✅ status  : OK
-2025-12-20 11:41:36 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ location : {
-	latitude : -38.383434 	longitude : 33.4276542}
-2025-12-20 11:41:36 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ accuracy  : 10
-2025-12-20 11:41:36 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ name : Bsckline house
-2025-12-20 11:41:36 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ phone_number  : (+91) 983 893 3454
-2025-12-20 11:41:36 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ address : 29, side layout, cohen 10
-2025-12-20 11:41:36 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ types : shoe park,shop,market
-2025-12-20 11:41:36 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ website  : http://google.com
-2025-12-20 11:41:36 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ language : Italian-IN
-2025-12-20 11:42:14 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ status : OK
-2025-12-20 11:42:14 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ place_id  : f02fb147b4e3816900481d8588e75129
-2025-12-20 11:42:14 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ scope : APP
-2025-12-20 11:42:14 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ reference  : 7435d375e422f84cafe170ad150b76067435d375e422f84cafe170ad150b7606
-2025-12-20 11:42:14 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ id : 7435d375e422f84cafe170ad150b7606
-2025-12-20 11:42:17 [main] INFO  c.stepDefinitions.place.DeletePlace - ✅ status  : OK
-2025-12-20 11:42:18 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ location : {
-	latitude : -38.383434 	longitude : 33.4276542}
-2025-12-20 11:42:18 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ accuracy  : 10
-2025-12-20 11:42:18 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ name : Bsckline house
-2025-12-20 11:42:18 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ phone_number  : (+91) 983 893 3454
-2025-12-20 11:42:18 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ address : 29, side layout, cohen 10
-2025-12-20 11:42:18 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ types : shoe park,shop,market
-2025-12-20 11:42:18 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ website  : http://google.com
-2025-12-20 11:42:18 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ language : Italian-IN
-2025-12-20 11:46:57 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ status : OK
-2025-12-20 11:46:57 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ place_id  : 7b5b06550af0b5bc7c9868287685b1df
-2025-12-20 11:46:57 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ scope : APP
-2025-12-20 11:46:57 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ reference  : 5ab6b8ad57c1e2ba7bf7dd1d0fe25e3c5ab6b8ad57c1e2ba7bf7dd1d0fe25e3c
-2025-12-20 11:46:57 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ id : 5ab6b8ad57c1e2ba7bf7dd1d0fe25e3c
-2025-12-20 11:46:59 [main] INFO  c.stepDefinitions.place.DeletePlace - ✅ status  : OK
-2025-12-20 11:47:01 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ location : {
-	latitude : -38.383434 	longitude : 33.4276542}
-2025-12-20 11:47:01 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ accuracy  : 10
-2025-12-20 11:47:01 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ name : Bsckline house
-2025-12-20 11:47:01 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ phone_number  : (+91) 983 893 3454
-2025-12-20 11:47:01 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ address : 29, side layout, cohen 10
-2025-12-20 11:47:01 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ types : shoe park,shop,market
-2025-12-20 11:47:01 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ website  : http://google.com
-2025-12-20 11:47:01 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ language : Italian-IN
-2025-12-20 11:51:37 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ status : OK
-2025-12-20 11:51:37 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ place_id  : 31b801d43177d969ba77263a6c8cbbf0
-2025-12-20 11:51:37 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ scope : APP
-2025-12-20 11:51:37 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ reference  : 95bb3f93be9f15ddf052f10368bccc3095bb3f93be9f15ddf052f10368bccc30
-2025-12-20 11:51:37 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ id : 95bb3f93be9f15ddf052f10368bccc30
-2025-12-20 11:51:40 [main] INFO  c.stepDefinitions.place.DeletePlace - ✅ status  : OK
-2025-12-20 11:51:42 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ location : {
-	latitude : -38.383434 	longitude : 33.4276542}
-2025-12-20 11:51:42 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ accuracy  : 10
-2025-12-20 11:51:42 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ name : Bsckline house
-2025-12-20 11:51:42 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ phone_number  : (+91) 983 893 3454
-2025-12-20 11:51:42 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ address : 29, side layout, cohen 10
-2025-12-20 11:51:42 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ types : shoe park,shop,market
-2025-12-20 11:51:42 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ website  : http://google.com
-2025-12-20 11:51:42 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ language : Italian-IN
-2025-12-20 11:51:44 [main] INFO  c.stepDefinitions.place.UpdatePlace - ✅ msg  : Address successfully updated
-2025-12-20 11:51:47 [main] INFO  c.stepDefinitions.place.UpdatePlace - ✅ msg  : Address successfully updated
-2025-12-20 12:04:15 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ status : OK
-2025-12-20 12:04:15 [main] INFO  com.hooks.PlaceHooks - ✅ place_id        : a5b8b860c11741f399aacfac69c95bd0
-2025-12-20 12:04:15 [main] INFO  com.hooks.PlaceHooks - ✅ scope           : APP
-2025-12-20 12:04:15 [main] INFO  com.hooks.PlaceHooks - ✅ reference       : ff4a075be98d46034f7a147c083006a2ff4a075be98d46034f7a147c083006a2
-2025-12-20 12:04:15 [main] INFO  com.hooks.PlaceHooks - ✅ id              : ff4a075be98d46034f7a147c083006a2
-2025-12-20 12:04:17 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ location : {
-	latitude : -38.383434 	longitude : 33.4276542}
-2025-12-20 12:04:17 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ accuracy  : 10
-2025-12-20 12:04:17 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ name : Bsckline house
-2025-12-20 12:04:17 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ phone_number  : (+91) 983 893 3454
-2025-12-20 12:04:17 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ address : 29, side layout, cohen 10
-2025-12-20 12:04:17 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ types : shoe park,shop,market
-2025-12-20 12:04:17 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ website  : http://google.com
-2025-12-20 12:04:17 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ language : Italian-IN
-2025-12-20 12:04:20 [main] INFO  c.stepDefinitions.place.UpdatePlace - ✅ msg  : Address successfully updated
-2025-12-20 12:04:22 [main] INFO  c.stepDefinitions.place.UpdatePlace - ✅ msg  : Address successfully updated
-2025-12-20 12:06:20 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ status : OK
-2025-12-20 12:06:20 [main] INFO  com.hooks.PlaceHooks - ✅ place_id        : fca6612d0484f3e08ee3b3192c965aad
-2025-12-20 12:06:20 [main] INFO  com.hooks.PlaceHooks - ✅ scope           : APP
-2025-12-20 12:06:20 [main] INFO  com.hooks.PlaceHooks - ✅ reference       : 175a8cc7ef86a2bac3037ca6ecca3bc9175a8cc7ef86a2bac3037ca6ecca3bc9
-2025-12-20 12:06:20 [main] INFO  com.hooks.PlaceHooks - ✅ id              : 175a8cc7ef86a2bac3037ca6ecca3bc9
-2025-12-20 12:06:23 [main] INFO  c.stepDefinitions.place.DeletePlace - ✅ status  : OK
-2025-12-20 12:06:25 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ location : {
-	latitude : -38.383434 	longitude : 33.4276542}
-2025-12-20 12:06:25 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ accuracy  : 10
-2025-12-20 12:06:25 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ name : Bsckline house
-2025-12-20 12:06:25 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ phone_number  : (+91) 983 893 3454
-2025-12-20 12:06:25 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ address : 29, side layout, cohen 10
-2025-12-20 12:06:25 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ types : shoe park,shop,market
-2025-12-20 12:06:25 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ website  : http://google.com
-2025-12-20 12:06:25 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ language : Italian-IN
-2025-12-20 12:06:27 [main] INFO  c.stepDefinitions.place.UpdatePlace - ✅ msg  : Address successfully updated
-2025-12-20 12:06:30 [main] INFO  c.stepDefinitions.place.UpdatePlace - ✅ msg  : Address successfully updated
-2025-12-20 12:09:28 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ status : OK
-2025-12-20 12:09:28 [main] INFO  com.hooks.PlaceHooks - ✅ place_id        : 0e5755edcc4ed9890bbac3efdb07c0a3
-2025-12-20 12:09:28 [main] INFO  com.hooks.PlaceHooks - ✅ scope           : APP
-2025-12-20 12:09:28 [main] INFO  com.hooks.PlaceHooks - ✅ reference       : 72db80789f0b2cd1d50a8393cf80c3a272db80789f0b2cd1d50a8393cf80c3a2
-2025-12-20 12:09:28 [main] INFO  com.hooks.PlaceHooks - ✅ id              : 72db80789f0b2cd1d50a8393cf80c3a2
-2025-12-20 12:09:31 [main] INFO  c.stepDefinitions.place.DeletePlace - ✅ status  : OK
-2025-12-20 12:09:32 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ location : {
-	latitude : -38.383434 	longitude : 33.4276542}
-2025-12-20 12:09:32 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ accuracy  : 10
-2025-12-20 12:09:32 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ name : Bsckline house
-2025-12-20 12:09:32 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ phone_number  : (+91) 983 893 3454
-2025-12-20 12:09:32 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ address : 29, side layout, cohen 10
-2025-12-20 12:09:32 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ types : shoe park,shop,market
-2025-12-20 12:09:32 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ website  : http://google.com
-2025-12-20 12:09:32 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ language : Italian-IN
-2025-12-20 12:09:35 [main] INFO  c.stepDefinitions.place.UpdatePlace - ✅ msg  : Address successfully updated
-2025-12-20 12:09:37 [main] INFO  c.stepDefinitions.place.UpdatePlace - ✅ msg  : Address successfully updated
-2025-12-20 12:11:15 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ status : OK
-2025-12-20 12:11:15 [main] INFO  com.hooks.PlaceHooks - ✅ place_id        : 05f02b5f4e108cf8ed2ec681fc2daae9
-2025-12-20 12:11:15 [main] INFO  com.hooks.PlaceHooks - ✅ scope           : APP
-2025-12-20 12:11:15 [main] INFO  com.hooks.PlaceHooks - ✅ reference       : bc1fd5a959efef712f5437ba0f30b312bc1fd5a959efef712f5437ba0f30b312
-2025-12-20 12:11:15 [main] INFO  com.hooks.PlaceHooks - ✅ id              : bc1fd5a959efef712f5437ba0f30b312
-2025-12-20 12:11:17 [main] INFO  c.stepDefinitions.place.DeletePlace - ✅ status  : OK
-2025-12-20 12:11:19 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ location : {
-	latitude : -38.383434 	longitude : 33.4276542}
-2025-12-20 12:11:19 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ accuracy  : 10
-2025-12-20 12:11:19 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ name : Bsckline house
-2025-12-20 12:11:19 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ phone_number  : (+91) 983 893 3454
-2025-12-20 12:11:19 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ address : 29, side layout, cohen 10
-2025-12-20 12:11:19 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ types : shoe park,shop,market
-2025-12-20 12:11:19 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ website  : http://google.com
-2025-12-20 12:11:19 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ language : Italian-IN
-2025-12-20 12:11:21 [main] INFO  c.stepDefinitions.place.UpdatePlace - ✅ msg  : Address successfully updated
-2025-12-20 12:11:24 [main] INFO  c.stepDefinitions.place.UpdatePlace - ✅ msg  : Address successfully updated
-2025-12-20 12:19:21 [main] INFO  com.stepDefinitions.place.AddPlace - ✅ status : OK
-2025-12-20 12:19:21 [main] INFO  com.hooks.PlaceHooks - ✅ place_id        : 225a5992e71d4f72d3bc5638eba9cf6d
-2025-12-20 12:19:21 [main] INFO  com.hooks.PlaceHooks - ✅ scope           : APP
-2025-12-20 12:19:21 [main] INFO  com.hooks.PlaceHooks - ✅ reference       : 8d92f19624d6ba66b5aa415295903fbc8d92f19624d6ba66b5aa415295903fbc
-2025-12-20 12:19:21 [main] INFO  com.hooks.PlaceHooks - ✅ id              : 8d92f19624d6ba66b5aa415295903fbc
-2025-12-20 12:19:24 [main] INFO  c.stepDefinitions.place.DeletePlace - ✅ status  : OK
-2025-12-20 12:19:26 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ location : {
-	latitude : -38.383434 	longitude : 33.4276542}
-2025-12-20 12:19:26 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ accuracy  : 10
-2025-12-20 12:19:26 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ name : Bsckline house
-2025-12-20 12:19:26 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ phone_number  : (+91) 983 893 3454
-2025-12-20 12:19:26 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ address : 29, side layout, cohen 10
-2025-12-20 12:19:26 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ types : shoe park,shop,market
-2025-12-20 12:19:26 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ website  : http://google.com
-2025-12-20 12:19:26 [main] INFO  com.stepDefinitions.place.GetPlace - ✅ language : Italian-IN
-2025-12-20 12:19:28 [main] INFO  c.stepDefinitions.place.UpdatePlace - ✅ msg  : Address successfully updated
-2025-12-20 12:19:31 [main] INFO  c.stepDefinitions.place.UpdatePlace - ✅ msg  : Address successfully updated
+2025-12-22 10:42:44 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODAzNjQsImV4cCI6MTc5NzkzNzk2NH0.aeOzdbikKPriA9rfe69jNevBUSCYsqA9YCMxY7J_IC0 
+2025-12-22 10:42:44 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 10:42:44 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 10:42:44 [main] INFO  com.hooks.EcommerceHooks - ✅ productId    : 6948d34c32ed8658714442c6 
+2025-12-22 10:42:44 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Added Successfully 
+2025-12-22 10:42:44 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Deleted Successfully 
+2025-12-22 10:42:45 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODAzNjUsImV4cCI6MTc5NzkzNzk2NX0.xehEQjLATHk1ED-N808PzWQTg66SKd3b6IzvW5EJsY8 
+2025-12-22 10:42:45 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 10:42:45 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 11:32:46 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODMzNjYsImV4cCI6MTc5Nzk0MDk2Nn0.iIxZUZUJKMzMPrTDTex2HFVXYiMt8bZAO3TOnUayR_A 
+2025-12-22 11:32:46 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 11:32:46 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 11:32:47 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODMzNjcsImV4cCI6MTc5Nzk0MDk2N30.02_TsHSBNkCAoMHMUz3_jxkA8MWKSNwRmoNjH7SjABI 
+2025-12-22 11:32:47 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 11:32:47 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 11:32:47 [main] INFO  com.hooks.EcommerceHooks - ✅ productId    : 6948df0732ed865871446119 
+2025-12-22 11:32:47 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Added Successfully 
+2025-12-22 11:32:47 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Deleted Successfully 
+2025-12-22 11:32:48 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODMzNjgsImV4cCI6MTc5Nzk0MDk2OH0.glwmUOTX7WrZ_ZMyLjjZdkWID8DJmswXMn1O2ih4FEI 
+2025-12-22 11:32:48 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 11:32:48 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 11:54:51 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODQ2OTAsImV4cCI6MTc5Nzk0MjI5MH0.1xTMVSFlVyyQDEFWxJQyZ2NpslfziEEekAw3neUPBEw 
+2025-12-22 11:54:51 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 11:54:51 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 11:54:51 [main] INFO  com.hooks.EcommerceHooks - ✅ orders           : null 
+2025-12-22 11:54:51 [main] INFO  com.hooks.EcommerceHooks - ✅ productOrderId   : null 
+2025-12-22 11:54:51 [main] INFO  com.hooks.EcommerceHooks - ✅ message          : null 
+2025-12-22 11:54:51 [main] INFO  com.hooks.EcommerceHooks - ✅ message : null 
+2025-12-22 11:54:51 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODQ2OTEsImV4cCI6MTc5Nzk0MjI5MX0.GosSFm94QBkgc7Cq1ktJu-cQmWBBu0654360JlUq5dI 
+2025-12-22 11:54:51 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 11:54:51 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 11:54:52 [main] INFO  com.hooks.EcommerceHooks - ✅ productId    : 6948e43332ed8658714471f5 
+2025-12-22 11:54:52 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Added Successfully 
+2025-12-22 11:54:52 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Deleted Successfully 
+2025-12-22 11:54:52 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODQ2OTIsImV4cCI6MTc5Nzk0MjI5Mn0.4S510NVUIN6y-JP3AtlFnHE43XWaurjVLPC45XEL4JQ 
+2025-12-22 11:54:52 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 11:54:52 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 11:56:04 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODQ3NjQsImV4cCI6MTc5Nzk0MjM2NH0.IAETVXx302V31D8GO_B6NECFRghSU5lxAGEaMRMXo1M 
+2025-12-22 11:56:04 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 11:56:04 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 11:56:04 [main] INFO  com.hooks.EcommerceHooks - ✅ orders           : 6948e47c32ed86587144730b 
+2025-12-22 11:56:04 [main] INFO  com.hooks.EcommerceHooks - ✅ productOrderId   : 6948dd2632ed865871445c52 
+2025-12-22 11:56:04 [main] INFO  com.hooks.EcommerceHooks - ✅ message          : Order Placed Successfully 
+2025-12-22 11:56:04 [main] INFO  com.hooks.EcommerceHooks - ✅ message : Orders Deleted Successfully 
+2025-12-22 11:56:05 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODQ3NjQsImV4cCI6MTc5Nzk0MjM2NH0.IAETVXx302V31D8GO_B6NECFRghSU5lxAGEaMRMXo1M 
+2025-12-22 11:56:05 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 11:56:05 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 11:56:05 [main] INFO  com.hooks.EcommerceHooks - ✅ productId    : 6948e47d32ed86587144731c 
+2025-12-22 11:56:05 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Added Successfully 
+2025-12-22 11:56:05 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Deleted Successfully 
+2025-12-22 11:56:05 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODQ3NjUsImV4cCI6MTc5Nzk0MjM2NX0.k2J_Mo7xX9k6Tn39EAuezMI5-r9l8th6XEh77MaLlbI 
+2025-12-22 11:56:05 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 11:56:05 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:15:50 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODU5NTAsImV4cCI6MTc5Nzk0MzU1MH0.ytePG4Xl31CqZ3iCDX_wl27ALiCBXMD8T68d6aQ06do 
+2025-12-22 12:15:50 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:15:50 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:15:50 [main] INFO  com.hooks.EcommerceHooks - ✅ orders           : 6948e91e32ed865871447ccc 
+2025-12-22 12:15:50 [main] INFO  com.hooks.EcommerceHooks - ✅ productOrderId   : 6948dd2632ed865871445c52 
+2025-12-22 12:15:50 [main] INFO  com.hooks.EcommerceHooks - ✅ message          : Order Placed Successfully 
+2025-12-22 12:15:50 [main] INFO  com.hooks.EcommerceHooks - ✅ message : Orders Deleted Successfully 
+2025-12-22 12:15:51 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODU5NTEsImV4cCI6MTc5Nzk0MzU1MX0.58R-fikeum7e3qd7kkiMtS-0eOlI5YpKy_MwPDVblmQ 
+2025-12-22 12:15:51 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:15:51 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:15:51 [main] INFO  com.hooks.EcommerceHooks - ✅ productId    : 6948e91f32ed865871447cd5 
+2025-12-22 12:15:51 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Added Successfully 
+2025-12-22 12:15:51 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Deleted Successfully 
+2025-12-22 12:15:51 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODU5NTEsImV4cCI6MTc5Nzk0MzU1MX0.58R-fikeum7e3qd7kkiMtS-0eOlI5YpKy_MwPDVblmQ 
+2025-12-22 12:15:51 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:15:51 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:15:52 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODU5NTEsImV4cCI6MTc5Nzk0MzU1MX0.58R-fikeum7e3qd7kkiMtS-0eOlI5YpKy_MwPDVblmQ 
+2025-12-22 12:15:52 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:15:52 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:46:08 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODc3NjksImV4cCI6MTc5Nzk0NTM2OX0.nrTdlHGOPtgo3uwzuW33e--rm3DMZebAiuR9va-_olU 
+2025-12-22 12:46:08 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:46:08 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:46:08 [main] INFO  com.hooks.EcommerceHooks - ✅ orders           : 6948f03932ed865871449054 
+2025-12-22 12:46:08 [main] INFO  com.hooks.EcommerceHooks - ✅ productOrderId   : 6948dd2632ed865871445c52 
+2025-12-22 12:46:08 [main] INFO  com.hooks.EcommerceHooks - ✅ message          : Order Placed Successfully 
+2025-12-22 12:46:09 [main] INFO  com.hooks.EcommerceHooks - ✅ message : Orders Deleted Successfully 
+2025-12-22 12:46:09 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODc3NjksImV4cCI6MTc5Nzk0NTM2OX0.nrTdlHGOPtgo3uwzuW33e--rm3DMZebAiuR9va-_olU 
+2025-12-22 12:46:09 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:46:09 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:46:09 [main] INFO  com.hooks.EcommerceHooks - ✅ productId    : 6948f03a32ed865871449065 
+2025-12-22 12:46:09 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Added Successfully 
+2025-12-22 12:46:09 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Deleted Successfully 
+2025-12-22 12:46:09 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODc3NzAsImV4cCI6MTc5Nzk0NTM3MH0.-b74qUmMcRZDXGHHY45TOMzEWyfhgpbXB9a8F9qtp0Y 
+2025-12-22 12:46:09 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:46:09 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:46:10 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODc3NzAsImV4cCI6MTc5Nzk0NTM3MH0.-b74qUmMcRZDXGHHY45TOMzEWyfhgpbXB9a8F9qtp0Y 
+2025-12-22 12:46:10 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:46:10 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:47:38 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODc4NTgsImV4cCI6MTc5Nzk0NTQ1OH0.8dPhmvczhqrVEBVCXmihYkR9JV_vx248OnoSE0dHoRg 
+2025-12-22 12:47:38 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:47:38 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:47:38 [main] INFO  com.hooks.EcommerceHooks - ✅ orders           : 6948f09232ed86587144915c 
+2025-12-22 12:47:38 [main] INFO  com.hooks.EcommerceHooks - ✅ productOrderId   : 6948dd2632ed865871445c52 
+2025-12-22 12:47:38 [main] INFO  com.hooks.EcommerceHooks - ✅ message          : Order Placed Successfully 
+2025-12-22 12:47:38 [main] INFO  com.hooks.EcommerceHooks - ✅ message : Orders Deleted Successfully 
+2025-12-22 12:47:38 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODc4NTksImV4cCI6MTc5Nzk0NTQ1OX0.igjeeQBS6Ih9RvTiXPk5fuiBACDIZDetcJEX1iM3e6A 
+2025-12-22 12:47:38 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:47:38 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:47:39 [main] INFO  com.hooks.EcommerceHooks - ✅ productId    : 6948f09332ed86587144916a 
+2025-12-22 12:47:39 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Added Successfully 
+2025-12-22 12:47:39 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Deleted Successfully 
+2025-12-22 12:47:39 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODc4NjAsImV4cCI6MTc5Nzk0NTQ2MH0.6j_0n4WeRoQLcq3mbK80rr9gZlVmi1srqXXrVsx3_XA 
+2025-12-22 12:47:39 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:47:39 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:47:39 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODc4NjAsImV4cCI6MTc5Nzk0NTQ2MH0.6j_0n4WeRoQLcq3mbK80rr9gZlVmi1srqXXrVsx3_XA 
+2025-12-22 12:47:39 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:47:39 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:49:40 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODc5ODAsImV4cCI6MTc5Nzk0NTU4MH0.CLFH7yQLHfG563SSBRcpi7uF4V8gSlzb_86wcEJfavI 
+2025-12-22 12:49:40 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:49:40 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:49:40 [main] INFO  com.hooks.EcommerceHooks - ✅ orders           : 6948f10d32ed865871449312 
+2025-12-22 12:49:40 [main] INFO  com.hooks.EcommerceHooks - ✅ productOrderId   : 6948dd2632ed865871445c52 
+2025-12-22 12:49:40 [main] INFO  com.hooks.EcommerceHooks - ✅ message          : Order Placed Successfully 
+2025-12-22 12:49:40 [main] INFO  com.hooks.EcommerceHooks - ✅ message : Orders Deleted Successfully 
+2025-12-22 12:49:41 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODc5ODEsImV4cCI6MTc5Nzk0NTU4MX0.lPmEJPCSak1TkfXYZh-D6Znv_vcDAroSSbdGHoQyiTI 
+2025-12-22 12:49:41 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:49:41 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:49:41 [main] INFO  com.hooks.EcommerceHooks - ✅ productId    : 6948f10e32ed865871449321 
+2025-12-22 12:49:41 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Added Successfully 
+2025-12-22 12:49:41 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Deleted Successfully 
+2025-12-22 12:49:41 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODc5ODIsImV4cCI6MTc5Nzk0NTU4Mn0.47x51wVAHjLFRXa1Itng-B_Zq-Et5RElo3R8wxuBYDI 
+2025-12-22 12:49:41 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:49:41 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:49:42 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODc5ODIsImV4cCI6MTc5Nzk0NTU4Mn0.47x51wVAHjLFRXa1Itng-B_Zq-Et5RElo3R8wxuBYDI 
+2025-12-22 12:49:42 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:49:42 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:50:24 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODgwMjUsImV4cCI6MTc5Nzk0NTYyNX0.sUWlW7PdbKeabdE3Zj-s85Xvytgj-c2oC07XxlkBR6s 
+2025-12-22 12:50:24 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:50:24 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:50:25 [main] INFO  com.hooks.EcommerceHooks - ✅ orders           : 6948f13932ed865871449417 
+2025-12-22 12:50:25 [main] INFO  com.hooks.EcommerceHooks - ✅ productOrderId   : 6948dd2632ed865871445c52 
+2025-12-22 12:50:25 [main] INFO  com.hooks.EcommerceHooks - ✅ message          : Order Placed Successfully 
+2025-12-22 12:50:25 [main] INFO  com.hooks.EcommerceHooks - ✅ message : Orders Deleted Successfully 
+2025-12-22 12:50:25 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODgwMjYsImV4cCI6MTc5Nzk0NTYyNn0.Vy6syLI0DEgYSkggDNrsalosC1tx4MWVYA1vk1qtaVw 
+2025-12-22 12:50:25 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:50:25 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:50:25 [main] INFO  com.hooks.EcommerceHooks - ✅ productId    : 6948f13a32ed86587144941f 
+2025-12-22 12:50:25 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Added Successfully 
+2025-12-22 12:50:25 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Deleted Successfully 
+2025-12-22 12:50:26 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODgwMjYsImV4cCI6MTc5Nzk0NTYyNn0.Vy6syLI0DEgYSkggDNrsalosC1tx4MWVYA1vk1qtaVw 
+2025-12-22 12:50:26 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:50:26 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:50:26 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODgwMjcsImV4cCI6MTc5Nzk0NTYyN30.zqoUiJxAfT4VY99ZpiW86B7ccKXOehbKM0Qd5x7Ph-A 
+2025-12-22 12:50:26 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:50:26 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:53:15 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODgxOTYsImV4cCI6MTc5Nzk0NTc5Nn0.NzJodFEAi78GfAyZiqNitGpaAXPmtX-lwvqpP2hYPqo 
+2025-12-22 12:53:15 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:53:15 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:53:15 [main] INFO  com.hooks.EcommerceHooks - ✅ orders           : 6948f1e432ed8658714495b6 
+2025-12-22 12:53:15 [main] INFO  com.hooks.EcommerceHooks - ✅ productOrderId   : 6948dd2632ed865871445c52 
+2025-12-22 12:53:15 [main] INFO  com.hooks.EcommerceHooks - ✅ message          : Order Placed Successfully 
+2025-12-22 12:53:16 [main] INFO  com.hooks.EcommerceHooks - ✅ message : Orders Deleted Successfully 
+2025-12-22 12:53:16 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODgxOTYsImV4cCI6MTc5Nzk0NTc5Nn0.NzJodFEAi78GfAyZiqNitGpaAXPmtX-lwvqpP2hYPqo 
+2025-12-22 12:53:16 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:53:16 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:53:16 [main] INFO  com.hooks.EcommerceHooks - ✅ productId    : 6948f1e532ed8658714495be 
+2025-12-22 12:53:16 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Added Successfully 
+2025-12-22 12:53:16 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Deleted Successfully 
+2025-12-22 12:53:16 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODgxOTcsImV4cCI6MTc5Nzk0NTc5N30.gdiKc0J-ZfD3u2WW0GVvJy3salOs9Ci-dABbUbYbz-Y 
+2025-12-22 12:53:16 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:53:16 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 12:53:17 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzODgxOTcsImV4cCI6MTc5Nzk0NTc5N30.gdiKc0J-ZfD3u2WW0GVvJy3salOs9Ci-dABbUbYbz-Y 
+2025-12-22 12:53:17 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 12:53:17 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 13:49:42 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzOTE1ODIsImV4cCI6MTc5Nzk0OTE4Mn0.kVvq8t83q9x9P77A-JUzMnt7YD87yspdPt9xRCpCh2Y 
+2025-12-22 13:49:42 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 13:49:42 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 13:49:42 [main] INFO  com.hooks.EcommerceHooks - ✅ orders           : 6948ff1e32ed86587144c25e 
+2025-12-22 13:49:42 [main] INFO  com.hooks.EcommerceHooks - ✅ productOrderId   : 6948dd2632ed865871445c52 
+2025-12-22 13:49:42 [main] INFO  com.hooks.EcommerceHooks - ✅ message          : Order Placed Successfully 
+2025-12-22 13:49:42 [main] INFO  com.hooks.EcommerceHooks - ✅ message : Orders Deleted Successfully 
+2025-12-22 13:49:42 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzOTE1ODMsImV4cCI6MTc5Nzk0OTE4M30.-ecSIBJVlurMmvqQMu2Hl8bjxWCN5rO2J9EPMZFk14c 
+2025-12-22 13:49:42 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 13:49:42 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ productId    : 6948ff1f32ed86587144c266 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Added Successfully 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Deleted Successfully 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzOTE1ODMsImV4cCI6MTc5Nzk0OTE4M30.-ecSIBJVlurMmvqQMu2Hl8bjxWCN5rO2J9EPMZFk14c 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ _id                 : 6948e90732ed865871447c64 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ orderById           : 6905d428f669d6cb0a3a2da5 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ orderBy             : thomasukutty6@gmail.com 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ productOrderedId    : 6948dd2632ed865871445c52 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ productName         : qwerty 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ country             : British Indian Ocean Territory 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ productDescription  : Addias Originals 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ productImage        : https://rahulshettyacademy.com/api/ecom/uploads/productImage_1766382886703.jpeg 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ orderPrice          : 11500 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ __v                 : 0 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ message             : Orders fetched for customer Successfully 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzOTE1ODQsImV4cCI6MTc5Nzk0OTE4NH0.cfeA0-7V2_iG2n5hjl6mh7dUT5dD552t8uQWUQ4wgJI 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 13:49:43 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 14:02:14 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzOTIzMzQsImV4cCI6MTc5Nzk0OTkzNH0.KUU-H9QEEHkY4YuT4q9GyuBDI5fuzYVkcTOLu1K-4Sw 
+2025-12-22 14:02:14 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 14:02:14 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 14:02:14 [main] INFO  com.hooks.EcommerceHooks - ✅ orders           : 6949020e32ed86587144cb51 
+2025-12-22 14:02:14 [main] INFO  com.hooks.EcommerceHooks - ✅ productOrderId   : 6948dd2632ed865871445c52 
+2025-12-22 14:02:14 [main] INFO  com.hooks.EcommerceHooks - ✅ message          : Order Placed Successfully 
+2025-12-22 14:02:14 [main] INFO  com.hooks.EcommerceHooks - ✅ message : Orders Deleted Successfully 
+2025-12-22 14:02:14 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzOTIzMzQsImV4cCI6MTc5Nzk0OTkzNH0.KUU-H9QEEHkY4YuT4q9GyuBDI5fuzYVkcTOLu1K-4Sw 
+2025-12-22 14:02:14 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 14:02:14 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 14:02:14 [main] INFO  com.hooks.EcommerceHooks - ✅ productId    : 6949020f32ed86587144cb59 
+2025-12-22 14:02:14 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Added Successfully 
+2025-12-22 14:02:15 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Deleted Successfully 
+2025-12-22 14:02:15 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzOTIzMzYsImV4cCI6MTc5Nzk0OTkzNn0.Z0lDB7tyGsYpD-XvK686lPCYXiDCWmM5pzw4ff6mAOg 
+2025-12-22 14:02:15 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 14:02:15 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 14:02:16 [main] INFO  com.hooks.EcommerceHooks - ✅ _id                 : 6948e90732ed865871447c64 
+2025-12-22 14:02:16 [main] INFO  com.hooks.EcommerceHooks - ✅ orderById           : 6905d428f669d6cb0a3a2da5 
+2025-12-22 14:02:16 [main] INFO  com.hooks.EcommerceHooks - ✅ orderBy             : thomasukutty6@gmail.com 
+2025-12-22 14:02:16 [main] INFO  com.hooks.EcommerceHooks - ✅ productOrderedId    : 6948dd2632ed865871445c52 
+2025-12-22 14:02:16 [main] INFO  com.hooks.EcommerceHooks - ✅ productName         : qwerty 
+2025-12-22 14:02:16 [main] INFO  com.hooks.EcommerceHooks - ✅ country             : British Indian Ocean Territory 
+2025-12-22 14:02:16 [main] INFO  com.hooks.EcommerceHooks - ✅ productDescription  : Addias Originals 
+2025-12-22 14:02:16 [main] INFO  com.hooks.EcommerceHooks - ✅ productImage        : https://rahulshettyacademy.com/api/ecom/uploads/productImage_1766382886703.jpeg 
+2025-12-22 14:02:16 [main] INFO  com.hooks.EcommerceHooks - ✅ orderPrice          : 11500 
+2025-12-22 14:02:16 [main] INFO  com.hooks.EcommerceHooks - ✅ __v                 : 0 
+2025-12-22 14:02:16 [main] INFO  com.hooks.EcommerceHooks - ✅ message             : Orders fetched for customer Successfully 
+2025-12-22 14:02:16 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzOTIzMzYsImV4cCI6MTc5Nzk0OTkzNn0.Z0lDB7tyGsYpD-XvK686lPCYXiDCWmM5pzw4ff6mAOg 
+2025-12-22 14:02:16 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 14:02:16 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
