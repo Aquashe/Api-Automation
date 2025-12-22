@@ -225,3 +225,33 @@
 2025-12-22 14:02:16 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzOTIzMzYsImV4cCI6MTc5Nzk0OTkzNn0.Z0lDB7tyGsYpD-XvK686lPCYXiDCWmM5pzw4ff6mAOg 
 2025-12-22 14:02:16 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
 2025-12-22 14:02:16 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 14:49:02 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzOTUxNDMsImV4cCI6MTc5Nzk1Mjc0M30.yMhZnh4VgN-WmJG5J1i43-DGG4TJiJpIkoEjuzMYbF4 
+2025-12-22 14:49:02 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 14:49:02 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 14:49:03 [main] INFO  com.hooks.EcommerceHooks - ✅ orders           : 69490d0732ed86587144f1b8 
+2025-12-22 14:49:03 [main] INFO  com.hooks.EcommerceHooks - ✅ productOrderId   : 6948dd2632ed865871445c52 
+2025-12-22 14:49:03 [main] INFO  com.hooks.EcommerceHooks - ✅ message          : Order Placed Successfully 
+2025-12-22 14:49:03 [main] INFO  com.hooks.EcommerceHooks - ✅ message : Orders Deleted Successfully 
+2025-12-22 14:49:03 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzOTUxNDQsImV4cCI6MTc5Nzk1Mjc0NH0.yUq3YTZjluPEJLrzXpiJe8vUyQAi5RAKeRd3v3A5E0M 
+2025-12-22 14:49:03 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 14:49:03 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ productId    : 69490d0832ed86587144f1c0 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Added Successfully 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ message      : Product Deleted Successfully 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzOTUxNDQsImV4cCI6MTc5Nzk1Mjc0NH0.yUq3YTZjluPEJLrzXpiJe8vUyQAi5RAKeRd3v3A5E0M 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ _id                 : 6948e90732ed865871447c64 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ orderById           : 6905d428f669d6cb0a3a2da5 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ orderBy             : thomasukutty6@gmail.com 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ productOrderedId    : 6948dd2632ed865871445c52 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ productName         : qwerty 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ country             : British Indian Ocean Territory 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ productDescription  : Addias Originals 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ productImage        : https://rahulshettyacademy.com/api/ecom/uploads/productImage_1766382886703.jpeg 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ orderPrice          : 11500 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ __v                 : 0 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ message             : Orders fetched for customer Successfully 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ token       : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA1ZDQyOGY2NjlkNmNiMGEzYTJkYTUiLCJ1c2VyRW1haWwiOiJ0aG9tYXN1a3V0dHk2QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjcwMzQ3MzY3MDcsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjYzOTUxNDUsImV4cCI6MTc5Nzk1Mjc0NX0.aCB6_LF0FS0aa0hySuCPuora6HxicHD4Vyveu5YF5aY 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ userId      : 6905d428f669d6cb0a3a2da5 
+2025-12-22 14:49:04 [main] INFO  com.hooks.EcommerceHooks - ✅ message     : Login Successfully 
